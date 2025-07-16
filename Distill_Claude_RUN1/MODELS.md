@@ -1,0 +1,3 @@
+- [LlaMA-135-Claude-Sonnet-4-Distilled-RUN1](https://huggingface.co/MebinThattil/FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN1/tree/main) : MebinThattil/FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN1
+- [FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN1-GGUF](https://huggingface.co/MebinThattil/FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN1-GGUF/tree/main) : MebinThattil/FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN1-GGUF
+- [FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN1-GGUF-Q4](https://huggingface.co/MebinThattil/FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN1-Quantized4Bit-GGUF/tree/main) : MebinThattil/FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN1-Quantized4Bit-GGUF
