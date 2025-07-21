@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "model_name": "MebinThattil/FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN2",
+    "model_type": "llama",
+    "is_gguf": false,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true,
+      "pad_token_id": 2,
+      "eos_token_id": 2
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "That's a great question! Stars shine because they are huge, hot balls of gas that make"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "A pyrate sounds like fun like a fish! He can"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "You said '"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "Yes, the color reel is the flowers! They produce their flower colors when the sun has just made it through the day and then letting out a clear light from their vaults. What is your favorite flower color?"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "You mean 'feel happy'! Yes, a wet cat can definitely feel happy! A wet cat"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "That's right, astronauts must fly to Mars! If astronauts can go"
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "You said"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "That's an interesting thought! Clouds are made of tiny, tiny drops of water or ice floating in the sky, just like you. So they're not alive. But they look soft and fluffy! What else makes clouds special for flying?"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "You're very"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "That's an interesting question about why babies grow"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "You mean 'mice'! Yes, a mouse uses its ears to hear, sm"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "You spelled 'friends'. Chickens"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "You're right, birds fly in threes! You're asking how birds move. Birds don't fly in single-file ways like cars do. They might hop on one branch or move to another branch, but not always. Do you know why birds have so many songs?"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "You got it! And yes, the night sky is"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": ""
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "That would be a super exciting picture in a dinosaur story! And no, a dinosaur doesn't have an orbit, because it's a living creature with bones"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "Donuts are so yummy! They aren't actually"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "Yes, the Moon is indeed big! It"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "That's wonderful! Magnets don't actually work like you do, but they are very important for building things like cars and factories! No, magnetism does not work like in movies, because it's a chemical reaction inside a body. What other things do you think would be impossible without magnetism?"
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "You're right, lots of animals live on Earth! You're asking about how plants and animals are alive. The Earth is home to millions of different animals, like birds, mammals, and even some types of frogs and fish! What kind of animals are living in the Earth?"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "You're right, flowers definitely fall from trees! That's a funny observation, though! Trees don't get tired because they grow bigger as they get older, but when their leaves turn into trees, the trees get much stronger and give them new leaf tips! What part of a tree gives its leaves most of"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "That's right, colors are everywhere, in many places! Rain happens when tiny amounts of water in the air make its way up through the soil and down into the water table. We get our rain today from the sun! What makes rain come from"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "That's a good question! No, a moon is not Earth; it's part of our planet, just like Earth has planets! Humans live on other planets, but moons are Earth-like objects that exist above all stars. A moon is not Earth,"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "You spelled 'noise'"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "That's a funny idea! Even though the Moon is a planet, it doesn't have a nose like people do because Earth has a special mucus, which makes breathing. Your nose helps keep everything"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "You mean 'chocolate bar'! A chocolate bar sounds yummy! Yes, a moon can sometimes get a little bit hard to digest, especially when it's very hot, because its tiny astronauts are living there! What's the best way for you and your mommy to eat chocolate bars?"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "You said 'mountain'. Mount Everest is very big and incredibly hot, with lots of dust on its surface! It's very high up and climbing slowly. The moon itself isn't quite as high as this, but it's a very big, tall mountain and has lots of dust on"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "Hide and seek sounds like a lot of fun, but playing games with the Moon is usually the best because it's so big and free! You need a special person or object to run the game, and the Moon is made of special rock and soil to make it fun! Do you like playing games with the Moon?"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "Air is indeed very hot, and yes, Earth is always sleeping, a process called planetary restoration! It's a giant, huge and ancient land where things grow, and Earth is still very much alive. But like any land, it needs water and food to recharge! Have you"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "You said 'roo' and 'rooo'! Yes, hens lay eggs inside the moon and they grow bigger and wiser! The moon is home to thousands of tiny eggs that become children's eggs. They are then laid and then cared for by scientists. Do you know what"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "That's a good question! No, the sky does not get dark because Earth is always spinning, so when your part of Earth turns away from the sun, it gets nighttime, which means it's glowing with its own light! What do you think is the most amazing thing you can imagine when you think about the sky?"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "That's a smart thought! The sun is indeed the biggest and quietest thing on Earth, helping it stay on Mars and helping planets bounce around stars. But it doesn't feel the same kind of magic as the Moon, which is super small and so close to Earth. What else feels magical but isn't yet really big?"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "There is no such place where humans"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "A warm blanket sounds very cozy and safe! And yes, cold can definitely make us"
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "That's a good"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "Happy dreams can be very fun! Space is full of happy things; maybe you can find a happy happy dream in a book! Space isn't full of happy noises from airplanes. It's still mostly empty with just a few empty places for people and things to go! Where do you think a real happy place is?"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "Oh no,"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "As you listen to music, my ears filter light from the sun to hear all the sounds around me"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "You like it!"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "That's right, birds are super tall! In the moon, there's a lot of tiny wings that help them fly. But the moon is very, very far away, so birds don't have wings. Birds usually fly at night, so they need a long, long time before they find their way to the ground"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "Your dad makes your superheroism even harder by being super. You can certainly feel superpowered, but it's different from a brave bird being superhero! Remember that your superpower is not real like a superhero, because nothing is. So when you're super excited about your superheroism, be ready to have fun! What superhero do you wish could go to school?"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "Running fast sounds like you can run very quickly,"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "That"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": ""
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "That's a clever way to think! Birds fly to the sky to search for food and to communicate. If they are flying up to the sky, maybe they might look up at the sky and ask if there is a word for them! What word does your favorite bird say?"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "That's right, your mom says it is blue! A bird's eyelids are made of plastic, not just wood, to keep them clean. And yes, many birds have eyelids, which are"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "You mean 'people'! Humans have no '"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "You said 'dried chocolate bar'! That sounds delicious! And yes, birds do get hungry, just like people. They eat food made with special ingredients, like milk or dark chocolate, as long as the animal is healthy and not over-eating too. Do you know what kind of food your bird eats?"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "You're right, birds have many fingers! Fingers are used to hold things and make voices, keys, and instruments. They have many hands to help them push buttons, type letters, and even stand in front of the TV for sleep! Do you know why humans have finger too?"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "Yes, a star can be"
+    }
+  ]
+}

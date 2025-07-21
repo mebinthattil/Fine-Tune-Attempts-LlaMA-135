@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "model_name": "MebinThattil/FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN2",
+    "model_type": "llama",
+    "is_gguf": false,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": false,
+      "pad_token_id": 2,
+      "eos_token_id": 2
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "That's a great question! Stars shine because they are huge, hot balls of gas that make"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "That's right, your mom needs to know about gills and can tell you all about"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "You spelled '"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "That would"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "That's right, you need to go to bed, because your body is working hard to"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "That's a funny idea about the Moon being round! The Moon is round because it has long,"
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "It's true, sometimes tiny, invisible things like 'moon' or 'spoon'"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "You said 'puppy'. Yes, a puppy is a very good friend! A puppy is a very"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "You mean 'puppy'! No, dogs don't usually play with puppies unless they're very active in their own way! They might pee or sniff"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "Your nose helps you feel"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "That's right, flowers smell beautifully for you! For us, smelling flowers is like a warm bath after a cold storm. We can"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "Yes, real animals use their bodies to move things like wheels"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "You're right"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "You spelled 'no'! No, there isn't a moon in the universe! It'"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "You're right, there are billions and billions just like us, just like you! Our eyes see, ears hear, and smell everything around us. What makes you curious about"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "That sounds like a superpowered superhero who can fly and has amazing eyes! A real superhero would be a real person, one with a superhero face"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "Silly books are lots of fun! Animals"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "You said 'the moon is a star'. Yes, the Moon is a star because it's"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "You mean 'elephants'! Magnets do make your eyes look things up, that's cool! No, your eyes don't make eyes; they are tiny, tiny parts of the Earth, made of rock, and they stay on all the time! What part of an elephant's eye do you think looks best?"
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "You spelled 'dinosaur' and 'house'! Yes, the dino in the movie was actually the house of the famous dinosaur, T-Rex, which lived a very, very long time ago! It's fascinating to learn about dinosaurs. Do you know what the house"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "Yes, the tree is definitely tall! And yes, trees themselves are very tall! They are usually about 50 feet (15 meters) tall and 6 feet (1.5 meters) wide. Do you know why trees need to be tall?"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "You're right, flowers grow from roots! Stars don't"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "You're right, their mass is super important for you! Stars don't have a body"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "Yes, space is absolutely alive! It's"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "Yes, space is very flat! It's mostly empty but full of amazing things to discover. It's also incredibly beautiful and full of wonders. What's the biggest thing you can imagine?"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "Blue is a great color! And that's a clever question! Cloud"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "A quiet noise! That's right, a quiet place makes sounds. Earth itself doesn't have people or voices like that. Only living things with voices"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "A car is a fun toy, right? No, a real car cannot be alive like"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "Yes, some cars get very hot, especially when they are running"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "You spelled 'cheese'. Cheese is a good choice for a chew"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "You said 'blue'"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "Yes, sharks are blue because they are so blue, much more than any other kind of animal!"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "You're right, many robots are built to 'have eyes' but not eyes, because they need to be able to see in the dark to work! Some robots have cameras or sensors to help them 'see' in the dark, but they don't have eyes like humans. What do you think is harder, having eyes or no?"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "Happy and scary sounds from a robot laughing are wonderful! No, rob"
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "You mean 'elephants'! Elephants are super smart animals that can fly and talk! No, elephants don't have ears or a body language like people"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "Sometimes crying is loud too, especially"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "Yes, the Moon is very, very hot, much, much hotter than"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "You spelled 'no sun'. No, the Earth doesn't face away from the Sun"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "I hear you sounding very tired"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "You said 'teeth'! Cheese sandwiches are super popular and are often part of"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "You're right, their strength in the dark is important! Dark spaces are full of nighttime because there's no light to see things in the morning. So, yes"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "Happ"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "Yes, absolutely! Water in the world is all the same as water in a hot ocean, just different colors! We get water in all sorts of ways, like rainbow or blue sea. What color do you think is the most water in the world?"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "You're right, your feet help them move around! And yes, birds also have feet, with their"
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "That sounds like a very big mistake for a baby bird"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "That's a good guess! The sun is the center of the Earth, where all the parts work together"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "Train cars are super fast, that's true! But no, the Earth itself doesn't slow down like a car or a plane. It's always moving at speeds our humans"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "As a chatbot,"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "Airplanes don't have tails like people,"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "You're right, the sun is so hot that it's like a giant, warm bed for plants! Plants don't have bodies of water like us, but they have roots that grow up into the air, which is what we see from space! What else grows from roots?"
+    }
+  ]
+}

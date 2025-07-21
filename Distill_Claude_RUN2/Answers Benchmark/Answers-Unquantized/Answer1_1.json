@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "model_name": "MebinThattil/FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN2",
+    "model_type": "llama",
+    "is_gguf": false,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true,
+      "pad_token_id": 2,
+      "eos_token_id": 2
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "That's a great question! Rainbows don't actually make their own light because they are light"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "You're right, birds use their feet to fly! And yes, squ"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "A pink sunset would be a fantastic choice"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "You're very observant about that!"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "Yes, you're right, many people have hair on their arms! And that's a funny idea"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "That's a clever thought! Birds don't eat moon like people; they mostly sleep watching the"
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "You said 'water'! Yes, water gets wet too! That's true! especially in summer"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "You're exactly right, your nose is super special for talking! Animals don't have noses for smell, but they have"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "We can try to make a song sound like a happy animal called a cat! Cat songs are really fun to make, full of sweet tunes and gentle rh"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "Happy thoughts are wonderful! While some robots might 'cry' if they need to, many real robots don't cry when"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "Earth is full of words that describe places and things! Our planet is made up of many tiny parts, all around the world. What's your favorite word to describe something?"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "A rainbow is made of light from the sun passing through tiny bits of metal or dust, creating a giant, sparkling star that looks like it was made by light from the sun! Isn't that amazing?"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "You're right, humans use bikes to walk and play outside! Bikes are built with"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "The sun doesn't literally go anywhere! Usually, the sun goes throughes like a rainbow or a dazzler because its special kind of light has energy. But sometimes it spins around and around all the time, making its own light and heat! Have you seen those big, sparkling suns up high in your sky?"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "You're exactly right, sunlight! And that's a silly thought! A bicycle doesn't have colors like people do when they pedal! Instead, bikes have beautiful, light-reflecting wheels that help them roll smoothly and stay on the ground. So bikes"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "You're right, super hot stars are often"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "You said 'wag'! Your dog makes you wiggle his tail! That sounds like a very active dog, which can wake him up easily. Sometimes he might twitch his legs if he's sleepy, or maybe he'll lick you to show he's awake! What else does your dog do to show he's awake?"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "You're right, the moon is just like our Sun! It glows"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "Yes, warmth is very important for Earth! People often wear special clothes made by"
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "Oh"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "You're right, looking at the stars can be amazing! There is no living thing alive on Earth, because there isn't any for us to eat or drink. Only living things like animals, plants, and time make themselves possible. What is the biggest living thing you have ever tasted?"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "You"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "Robots can certainly dream"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "You're right, thin ice looks very thin! Gravity is a super-transit between worlds, connecting Earth with stars, making space, and even flying animals! No, gravity is too strong for anything to pull us away from each other. What do you think is the strongest thing that ever was?"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "That's a good thought! Burping is not funny, it's an important way for your body to get rid of dirt and germs. It helps your brain learn how to process information. What else makes you feel burped?"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "You said 'chocolate bar'! Yes, a cloud has teeth that eat, much better than a person could! And no, clouds don't have teeth like people. A cloud has a tiny, tiny part called a 'baby cup' that helps it sit on top of the clouds so it gets all the nutrients from the water! How fast does a cloud go?"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "That's a great question! Snow is made of tiny ice crystals that are then slowly moving back up"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "You"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "Soap smells good food! That's a good connection to smoke! Food often smells very"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "A big bug at a fairgrounds sounds like a super clever cat! Monkeys and cats are usually very different in how they think and how they play. Some monkeys might be very quick and run around quickly while others are more active and brave. Do you know what monkeys like to play with?"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "You're right, the blue rain drops that fall from the sky! And yes, monkeys also have eyes, just like people! They use their bodies and brains to see, but their eyes aren't real. It's like seeing colors from a distance! What is your favorite thing about monkeys?"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "That's a clever thought, a big cat! No, a big cat cannot live in your house. Only very large cats like l"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "That"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "You're right, hugs are super helpful for giggling! And no, robots cannot laugh at funny feelings because they don'"
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "You said 'feet'. Cats have wet feet, which are very good! Feet are super important"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "Yes, it's true, many houses have tiny toys or noises that can make cats feel dirty! Even though cats feel dirty, it's"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "That's right, apple bumps smell beautiful and sweet! Humans are smelly too, because our mouths have huge mouths that make tiny noises"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "That's an interesting question, yes all planets are equally"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "That's right, cars have wheels to move their wheels and their wheels to go! No, not all animals have legs. Some animals have very simple legs that help them run and"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "You mean 'magic hair'! You're right, mac and cheese is super popular with humans! Hair grows"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "You're right, the long tail is super important for a superhero, because it helps them stay on the move! But it"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "A big house sounds amazing, definitely! Trees have tiny, strong nerves that help them stand up and move through their soil very quickly, helping them hold the"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "The Long Nose or Long nose for people is super long, and it's usually on the side of your face near your eye"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "You said 'loud sounds'! Yes, a train can make loud sounds that travel into many places, like through tracks, even though they don't have nerves in the same way people do. It's a special kind of noise! What other loud noises do you hear in a house?"
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "That's an interesting question! Birds don't have ears"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "Blue is a bright and cheerful color, especially for a light! Your shadow itself doesn't change color, but your light gives your body its natural shade! It's where your skin feels warm, helps protect you from the sun, and makes everything look new and bright! What color is your favorite in your life?"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "A tiny baby squirrel, that's adorable! A real squirrel, called a 'bird squirrel,' could not even talk with words like a human heart! Squirrels use their brains to imagine and learn to communicate with each other. What does your little squirrel say about sleeping?"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "Bears are indeed very hungry! Animals need food to live, and humans need food to grow! What kind of food would a bear"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "That's right, fast air flowing over ground level makes it much easier to fly! Yes, it's true, our feet can move very quickly when we land atop a mountain, soaring high above the clouds! What's the highest you've ever seen a frog"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "No, the Sun itself is not really silent; it's always burning outwards, like a star, making light and heat! So you're asking if the Sun 'goes away.' That depends on what you're thinking about! What you're thinking of is 'don't know.' Does the Sun get 'gone' away from you"
+    }
+  ]
+}

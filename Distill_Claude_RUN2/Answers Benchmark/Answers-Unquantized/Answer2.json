@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "model_name": "MebinThattil/FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN2",
+    "model_type": "llama",
+    "is_gguf": false,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.3,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true,
+      "pad_token_id": 2,
+      "eos_token_id": 2
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "That's a great question! Stars shine because they are huge, hot balls of gas that make"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "Playing with toys can be such a fun and exciting way to spend time! Fish can also be very creative and playful with their owners. What'"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "You're right, mountains can look so high!"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "A fluffy squirrel would definitely make a good singer, as they use their strong wings and special body parts"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "You're right, dogs"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "You're right, the Moon faces are very round! And yes, animals can see in the dark too! They can see tiny bits of light from the sun, which is how we see"
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "You're right, sticky"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "You're right, dogs are amazing at learning to fly! A cat can't fly on its own, but"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "That's a good question about your eyes! People often see things through the lenses of their eyes, which helps them see things well. But houses don't have eyes like people. They have nerves that feel like a big, warm blanket! What do you think a house has for it to be warm?"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "You spelled 'sky'. Yes, there are cats in the sky! There are many different kinds of cats in the sky, from tiny fuzzy blankets to enormous, powerful cat-h"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "You asked why c"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "You mean 'feathers'! That's right, feathers help them move their wings! No, hair doesn't grow in; it just stays on the edge of their skin, and they stay close to their body. Only living things grow hair, though!"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "Yes, chicken milk is yummy! Chicken milk comes from a type of"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "You said"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "You're right, the stars are blue! And yes, a star is absolutely alive! It glows, shines,"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "Yes, the bells on the space ship are usually fixed so that you don't trip over them when you walk on them! That way, they won't"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "Your nose needs to be scared because it's your body's special helper for remembering where you are and what you want to do! It also needs"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "You're right, there are no noises from the Moon! There are tiny, tiny sounds"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "Yes, the Moon is very big! It"
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "No, the Moon is not 'old' like people are! It has a long, thin crusty surface that makes up mostly air and water. When Earth spins around, it turns into a huge,"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "That's an interesting observation! Birds change color in the dark because their bodies are still growing and learning, but"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "You"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "Space robots are very exciting! They can move in"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "That's a funny question about how plants grow! No, the Moon is not a planet"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "That's a good thought! That's a very common question about why your mom tells you something"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "Your daddy is a wonderful person to be with! And yes, burping can sometimes feel like"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "You said 'shrink'. Yes, a volcano can definitely er"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "I am not a friend of the Internet; I am a computer program and not a person. I exist to talk to you! But I am a helpful program and here to help you and answer questions if you want to know more about the Internet. What do you mean by 'I am not scared'?"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "You said 'dreams' about your dog! Yes"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "Birds can fly very fast, much faster than humans can run! About 30 seconds in"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "That's right, the moon is green! No, the Moon doesn't have eyes because it's a"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "You spelled 'no sun'. That's one reason why the Moon is so big and sunny! There are no suns, because the Moon is just made"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "You mean 'smell'! Smelling something sounds very"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "Happier songs sound very happy! Music comes from the brain, which helps us sing and dance! So"
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "That's a funny idea about how"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "Yes, that's exactly right"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "Yes, the Moon smells very good, almost like a smell from its tiny astronauts! It has lots of dust on Earth, and it smells very good smelling things like flowers or fruit. What do you think the"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "Yes"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "You're right, some flys can make you fall very quickly! And yes, flies"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "That's right, bad for your baby baby milk is not good for your baby! Your body needs milk to grow and keep you healthy. A baby milk drinking isn't bad if it'"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "That's sweet that your dog helps you stay strong! No,"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "Your feet can run fast, that's amazing! Yes, dogs do have feet! They can run very fast on their muzzles, which is like their own special special power, but they are not human like people are. They use their bodies and bones to run and play! What else uses its own special power?"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "You said 'fish' and 'underwater birds'. Yes, fish do eat! Most fish live in the oceans or at sea level, where they can live in many places, like near land. But some fish live in deep waters, like those found in oceans, and others live"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "Your mommy's"
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "That's a good guess! Cats mostly eat grass, and some even like other grasses! Some animals, like monkeys or cats, might not like grass as much as humans do. Do you know why a cat likes grass?"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "Orange is a lovely color! It's a warm"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "You spelled 'tail"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "Yes, it's"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "You're right, sometimes there"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "An airplane with wings can go super high, so huge!"
+    }
+  ]
+}

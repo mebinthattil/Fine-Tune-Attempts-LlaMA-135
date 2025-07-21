@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "model_name": "MebinThattil/FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN2",
+    "model_type": "llama",
+    "is_gguf": false,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true,
+      "pad_token_id": 2,
+      "eos_token_id": 2
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "That's a great question! Stars shine because they are huge, hot balls of gas that make"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "That's a good question! Space is real because it's so enormous"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "No, the Moon does not have a history of its own. It has been used by astronauts for observation flights and for observation houses for astronauts"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "That's a funny idea, when the Moon is round, it melts too! It doesn't m"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "Watching movies sounds like a lot"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "Space is incredibly alive, to say the least! It's full of wonder and imagination, full of wonderment"
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "You spelled 'bear' and 'moo'. That's an interesting question! Bears are animals that eat the Moon, but"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "Playing sounds like a lot of fun, but no, robots don't play games because they don"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "Yes, dogs are very good at"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "That's right, I am not a person or a creature in space. I am a chatbot created by computers who exist as code. I don't have hands or a body to move or look at you. What makes humans special compared"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "That"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "You're right, birds mostly eat insects, like frogs, fish, and mammals"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "You're asking what fly"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "You mean 'star'"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "You're right, trains do go all the way up to heaven! The sun itself doesn't go all the way up to the stars. It goes all the way down to Earth, just like planets do! What makes your home on Earth all the way up to the sun?"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "A tounge on Earth sounds like a fun cow!"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "You said 'lites'"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "Yes, astronauts often find it very interesting that the Moon is not alive! Scientists are still exploring ways"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "You're right, magnets help ships to move around! No, stars don't have magnets. They are giant, super hot balls of gas that make their own light and heat! Stars are made by burning hot gas with huge, powerful engines. Do you know what makes a star turn into a black hole?"
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "Yes, I can certainly see your toy! Your toy is actually made of metal, which means it won't flicker if you push it a little bit hard. That's how it looks pretty. What else would you like me to describe for you to watch?"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "You spelled 'height'. That's right, trees get higher than you think! Sometimes, it gets so tall because there's more of an edge or edge-on slope between the ground and the top of the tree, giving it a bit more of a tall stand. Do you know why tall trees grow wider?"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "Your hands look warm and bright, like they're made from rooars! And no, the Earth is not cold; it's mostly clear, blue. So when the sun and stars light up the night, it's also very dark! It's like Earth's"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "It's true, sometimes it feels like you are floating in the air, like when you're near the moon! But in reality, the Moon is actually part of our planetary system, just like Earth, and it's orbiting around our Sun! It's a giant, incredibly big ball of rock, full of bub"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "You said 'playing in the sun'. That's great! The sun gets extremely hot"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "No, the Moon does not have an electricity; it uses gravity to move around the Earth and"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "Yes, clouds can indeed be made of dirt! There are no made of dirt like mountains or oceans, but some parts of the Moon and Mars are made of different kinds of dirt, like clay, which helps them stand up! What do you think is the hardest thing for a cloud to work with?"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "You said 'fruit'. That's right, fruit"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "You're right, the Moon often erupts into dust! It doesn't erode, it just 'melts' into"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "A fluffy cotton ball sounds like so much fun to make! And yes, a ball always has hair, just like all balls of soap. If your hair is super thin, like a pink hair ball, then a ball of soap might not be for you. Do you know how many hairs a ball of soap can cover?"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "An apple tree is red on the"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "You said 'blue'! That's a good way to think about it! Birds can glow in the dark, almost like tiny lanterns, but they are actually light and water, not air. They use their wings to fly! What else do you see that isn't blue?"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "You said 'star'! That's a good question! No, the Moon is not a star; it's a natural satellite that orbits around our planet! Stars are huge, hot balls of gas that make their own light, like tiny distant suns. What do you think stars are made of?"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "Your mommy's hands are lovely! Robots don't usually feel happy unless their machines make you feel happy. Some special robots you see on the ground are actually very strong and help carry people, but they are usually designed for something more fun and helpful. What else do you use your hands for?"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "Petting your tummy will definitely help it feel better after a crunching sound! Crying isn't really 'bad', because it's just how your body feels after a big meal. It might make you feel happy or feel safe, but it's not a kind feeling to make. What helps"
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "You spelled 'health'. Yes, math can help you understand the healthy things around you! There are signs that something is growing or getting new cells, and there is an effect in your body,"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "That's right, smart is a very big word!"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "Yes, moon is definitely real! It looks like Earth is shaking itself when it gets close to its giant moon-shaped star, but it's not real. The moon is just about 334 million miles away from Earth! It's much bigger than a house or even a tall mountain! What other things have an area of about"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "That's a wonderful observation! Your tummy sometimes feels funny while you're sleeping, especially"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "That's a good way to put it! Gravity is indeed super important for flying! When something moves so fast that it cannot fly, it's called \"stability.\" If it falls hard, it could blow up or turn into something else. It's always on the move! What else needs stability to happen?"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "You're right, some flying animals don't want to stay in the ground because they no longer"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "You said 'family'! That's wonderful! No, human superheroes are not like people; they're much, much bigger and stronger! They have more arms, legs, and maybe even a lion's mouth maybe. Do you think your family is superhero?"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "Kittens are amazing c"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "You spelled 'rain"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "You mean 'feet'! You're right, birds have feet! And while many parts of"
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "A tiny fowl, called"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "Yes, some cars have special eyes to see them, but most cars don't have eyes at all! They have a special gas-filled lens inside their engine that helps them see far away. What part of a car has special eye?"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": ""
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "You spelled 'milk' and 'need color"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "That's interesting that the Moon is 'star'! You're asking if"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "That'"
+    }
+  ]
+}

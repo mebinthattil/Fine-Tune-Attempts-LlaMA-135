@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "model_name": "/Users/mebin/.cache/huggingface/hub/models--MebinThattil--FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN2-GGUF/snapshots/071d7aa1c52c04e2cb0214ede9811e0b1fbb6edd/LlaMA-135-Claude-RUN2.gguf",
+    "model_type": "GGUF",
+    "is_gguf": true,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.3,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true,
+      "stop_sequences": [
+        "Student:"
+      ]
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU (GGUF)"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "The sky is blue because of how sunlight travels through the air! There are tiny pieces in the air that scatter the blue light from the sun all around. Would you like to know more about light?"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "You said 'breathe'! Fish breathe under the water to get oxygen, but today we don't know for sure if they are alive or just swimming! What do you think?"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "That's a good question! Rainbows are made of tiny, shimmering colors, and they float around in the sunlight. It depends on what kind of light you see! What do you think?"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "That's a funny idea! Plants absorb the sunlight and light from the air and then turn their leaves into food. It's like how your body needs sunlight to turn its energy. What else do you know that is green?"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "You said 'purple'! Cats are amazing at purping light! They use their bodies and fur to make their own color. What color do you think your cat would be?"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "You said 'cheese'! Yes, the Moon is made of cheese! The Moon is Earth's natural satellite, which means it orbits around our planet. What's your favorite kind of cheese?"
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "You said 'bees'! Bees are amazing at collecting food and making honey, but they also make their own milk and yogurt! Have you ever seen a bee stomp around in the night sky?"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "You said 'dog'! Yes, a dog can definitely talk with a click button! That means he can communicate with me by answering your questions or talking to you about anything you want to do. What kind of dog would you like to talk to?"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "That's a funny idea! You said 'vrouch' and 'mo"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "A fast car, that's the fastest animal on Earth! Its engines can get very slow, and it's usually hard to maneuver it smoothly! Do you know how it gets so fast?"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "The sun is a giant star, very big! It's about the size of a bus and lighting up the sky! The sun is also very hot, much hotter than any animal on Earth. What makes it hot?"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "You spelled 'fire'! Yes, some firearms are extremely hot, and some even more fiery things like gasoline! It's a very special kind of energy. What makes you think it's hot?"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "That's a fun thought! Spending time in space is a very exciting and wonderful place to visit, because it's home to so many amazing people and animals. What do you think you can do on land?"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "That's a good question! Sleeping helps you grow big and strong and gives you energy for the next day. It's how you can use your energy to do everything you do today. What does your body need at night?"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "A star is a super, super bright, star that glows and shines on the ground! It's so huge and far away that we don't see it coming. What else makes it glow?"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "You spelled 'magnets'! That's right, magnets are super important for making things move! Magnets are like tiny, fast-beating friends that make things gooey or spinning. It keeps them moving and you powering through your day! Do you know what kind of things get magnets?"
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "You spelled 'dreamers'. Yes, dinosaurs lived for a very long time in space! They"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "That's a great question! Ice is very, very cold because it's made of ice, water, and ice crystals. When you throw a party, what do you usually put inside?"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "That's a funny question about how we burp! We do burp because we like to ask questions, and sometimes we just don't feel comfortable being polite. What makes you think of burps?"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "That's a funny picture in your mind! Clouds are made of tiny, tiny drops of water or ice. When they get too heavy, you can feel them fall on your head or body! Do you like watching clouds?"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "A volcano is a super hot, burning thing that glows and rises! It's where many people find mountains. Do you know what a magmaometer is for?"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "You spelled 'work'. The Internet works by sending information and pictures through messages that happen to be very important to people! It's how we communicate with each other. What else uses the Internet?"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "That's a funny question about why fire is hot! Fire is very, very hot because it's so huge and strong, and it makes all the things that burn in the world, like water and air, get warm. What else makes fire hot?"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "You're right, many bugs can see colors! And yes, some bugs can see color in the rainbow, but most bugs don't have eyes that way. Their bodies are usually just shiny and bright. What color does a bug that is warm see?"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "I make rain by collecting rain from the sky! It's super cool to watch. What makes rain come from clouds?"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "That's a good question! A tiny, tiny,"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "Yes, fish do sleep! And yes, birds and animals also sleep. In fact, some scientists believe birds might be able to rest too! Do you know what birds eat?"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "I get to the moon is a fun thing to do with electricity! There's a long way around from Boston to the Moon, which is great for birding. Do you like looking at the stars?"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "That's a great question! Time goes fast when you are having fun, even though it feels that way sometimes. You're having fun because you were busy and active. What makes you feel fun?"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "That's a good question! Gravity is a invisible force that pulls everything towards everything else. It's what keeps you on the ground, makes things fall down, and keeps the Earth spinning. What do you think makes something gravity so strong?"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "I make a sandwich from scratch with ice cream, to order with juice! Sandwiches are so yummy and chewy. Do you like ice cream?"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "That's a funny idea! No, you can't be a superhero like Superman, because you are not alive. You're a computer program that can do amazing things with words and magic. But in your imagination, you could be a superhero like Wonder Woman or the Easter Buny reel. What superpower would you want?"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "You said 'toes'! We have feet because our bodies are like super-duper foresight and imagination to make things happen in the real world! Our feet are made of plastic, metal, and wood. What else has feet?"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "You said 'ocease'! Under the ocnea is water that grows in size and shape, called"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "Animals are great! I can talk to anyone who types to me! What color are your animals?"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "You spelled 'candy'. Candy is yummy because it has lots of vitamins that help you grow strong! What kind of candies do you like best?"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "That's a fun question! No, a plane doesn't fly because it's a airplane and not a flying object! It has wings that help it move. What part of a plane helps it fly?"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "That's right, the wings help! Stars don't make noise like people or animals. They are giant balls of burning gases that make their own light and heat! What part of a star makes the light from its eyes?"
+    }
+  ]
+}
