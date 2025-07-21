@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "model_name": "MebinThattil/LlaMA-135M-FT-Education-Conversation-ConversationAware",
+    "model_type": "llama",
+    "is_gguf": false,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true,
+      "pad_token_id": 2,
+      "eos_token_id": 2
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "Great"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "Correct. This exercise will help you understand complex ideas better."
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "Great! I'"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "I don't"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "You're welcome. I'm glad you enjoyed the lesson."
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "Try to pay attention. This is helping me understand."
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "They make their own food."
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "Student: [end of conversation]"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "[End of conversation]"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "[End of conversation]"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "No, this is great. I'll use this material to teach you the facts."
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "You're welcome. I think I've got this now."
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "[End of conversation]"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "It's 10 times bigger than the earth's moon."
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "Yes!"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "Sure, but could you repeat that back to me first?"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "You're welcome. I hope you found it helpful."
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "A planet with no stars."
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "We'll use this material to explain the concept."
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "Good. I'll check back with you next lesson."
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "The plant gets more energy from the sun, so it won't die."
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "[end of conversation"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "...\","
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "Okay, let's start with the background. Clouds are a natural way to show how the universe works."
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "Great. So, what do we know about the periodic"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "Excellent. Now let's play a game. I'll give you a clue about a"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "I'm glad you enjoyed the lesson. Any questions?"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "[End of conversation]"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "Great! I'm proud of you. [End of conversation]"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "No problem. [End of conversation]"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "The planets do."
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "An atom."
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "Yes, they are. [End of conversation]"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "They want peace."
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "It's easier for you to understand. [End of conversation]"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "No problem. [End of conversation]"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "You need a rocket."
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "Good. I'm glad you enjoyed it. [End of conversation]"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "You're welcome. [End of conversation]"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "Just try."
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "Sure."
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "Excellent! You're getting the hang of"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "You're welcome. I think I'm ready for a quiz now."
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "Sure"
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "[End of conversation]"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "No problem! I'll keep you in mind."
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "You're welcome. Good."
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "[end of conversation]"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "[End of conversation]"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "Yes!"
+    }
+  ]
+}

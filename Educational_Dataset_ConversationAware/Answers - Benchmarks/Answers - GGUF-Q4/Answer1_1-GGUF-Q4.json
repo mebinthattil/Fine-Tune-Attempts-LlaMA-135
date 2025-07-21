@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "model_name": "/Users/mebin/.cache/huggingface/hub/models--MebinThattil--LlaMA-135M-4Bit-Quantized-GGUF-FT-Education-Conversation-ConversationAware/snapshots/4a2a90602708d7562ce2bb20232502e8ac6b5798/LlaMA-135M-FT-Education-Conversation-ConversationAware-q4.gguf",
+    "model_type": "GGUF",
+    "is_gguf": true,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true,
+      "stop_sequences": [
+        "Student:"
+      ]
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU (GGUF)"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "There is no sky. We are taking a guess what we can do."
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "I'm going to tell you what to know and why to fish."
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "A rainbow is a video of water."
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "Let's talk about the elements."
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "Cats are the building blocks of everything in this universe."
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "No, it's not. Let's talk about the Sun."
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "Let's discuss the planets."
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "No, let's just do a square."
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "You're not going to learn anything."
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "It's a way for you to see you in a way that isn't so bad."
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "That's because you're not telling me anything."
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "You're just telling me the information."
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "The fastest way to learn."
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "It's the center of our universe."
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "No, it's your fault for not learning anything."
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "No, you're just trying to make it more interesting for you."
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "It's your fault you're not trying to understand anything."
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "A star."
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "You're just telling me the information."
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "You're"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "Mount Stolen!"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "I'm none of you. We're going to talk about clouds as if they were real things."
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "Because there's no way to know what those fire people are!"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "I'm not sure there's a way to make this more hands-on."
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "I'm not a fan of you. You're just trying to tell me what you already know about clouds."
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "The smallest plant you ever use."
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "I'm not sure if you're going to learn anything about clouds."
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "Because you're not going to understand anything."
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "I'm not going to teach you anything about it."
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "I'm not sure you can do that."
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "I'm not sure you can do it."
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "I'm just trying to make it simpler."
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "I'm just trying to understand it."
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "I'm just trying to learn how to do it."
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "That's not a bad idea."
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "I'm trying to teach you about clouds."
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "I'm just trying to understand it."
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "No, you're just trying to learn about clouds."
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    }
+  ]
+}

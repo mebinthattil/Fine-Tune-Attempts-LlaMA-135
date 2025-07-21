@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "model_name": "MebinThattil/LlaMA-135M-FT-Education-Conversation-ConversationAware",
+    "model_type": "llama",
+    "is_gguf": false,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.3,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true,
+      "pad_token_id": 2,
+      "eos_token_id": 2
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "How about we start with a demonstration? We can use a ball for the wind and a smaller ball for the rain."
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "That's right! And there are other factors, such as weather and human activities."
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "We'll use different sized balls to represent the waves. The larger balls will create a lot of water and carbon dioxide."
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "[End of conversation]"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "You're welcome. I'm glad you enjoyed the lesson."
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "No, it's just a symbol of planet Earth."
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "[end of conversation]"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "Yes! I think you're understanding this."
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "It goes into motion through a process called rampant learning."
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "[End of conversation]"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "They're from the air. Now, let's review the key points."
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "They have a unique way of flying."
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "It's a speedy bird."
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "It's much bigger than it first appears."
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "Yes, they do!"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "Sure, but can we do something fun instead?"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "This is important material. It helps us understand the world."
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "A blue planet that has a sun."
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "They help our magnetism by creating a constant state of affairs."
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "Great! So, does anyone know the periodic table?"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "It was built as a record of all the"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "You're welcome. I'm glad you enjoyed the lesson."
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "You're welcome. I'm happy we could do a discussion about your work."
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "[End of conversation]"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "That's your problem, not mine."
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "[end of conversation]"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "An island in the ocean."
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "It's a tool that helps us understand the world around us."
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "It's essential for life."
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "No, I think they don't."
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "You're welcome. I think I understand the basics now."
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "The smallest plant."
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "Yes! I'm glad you're understanding."
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "Because they realize the importance of education."
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "It's the science of numbers."
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "Yes, they do!"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "You're welcome. Thanks for explaining it to me."
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "Because you're trying to learn through a activity."
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "The force of gravity affects the motion of the body."
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "I'm glad you're enjoying it! Now, let's think about what you've learned so far..."
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "Excellent. This is fun!"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "You're just not trying hard enough."
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "[End of conversation]"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "...And that concludes our lesson on gravity."
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "[End of conversation]"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "[End of conversation]"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "[End of conversation]"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "You're welcome. I hope you enjoyed learning about gravity."
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "...And that's just a bunch of facts."
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "No, they just look at me like numbers."
+    }
+  ]
+}
