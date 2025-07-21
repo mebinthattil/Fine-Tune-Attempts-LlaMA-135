@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "model_name": "MebinThattil/LlaMA-135M-Gemini-2.5PRO-Distill-ConversationAware",
+    "model_type": "llama",
+    "generation_parameters": {
+      "max_new_tokens": 150,
+      "temperature": 0.3,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": false
+    },
+    "context_settings": {
+      "max_context_tokens": 512,
+      "pad_token_id": 2,
+      "eos_token_id": 2
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "That's a great question! Stars shine because they are huge, hot balls"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "You said 'chinooks' and 'fly'! Yes, chino"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "That's a super clear picture! The sunlight is so bright, it's hard to see all the parts. But the light from"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "You said 'cereal"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "Yes, the sky is often blue! It's a wonderful place"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "You spelled 'sand'! Yes, a big crater on the Moon is indeed sand! And no, the Moon does not have sand like people or animals do. It has very smooth surfaces that make it feel like you're touching up a sandcastle! Do you know why sand is good for"
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "Yes, the Moon is made of cheese, not just olives! It'"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "That's a funny idea! While dogs might not 'sleep' like people, they usually wake"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "Yes, it's definitely alive! It has a living brain that helps it learn new things, and it has a strong emotional connection with its cars. It's a very active animal with many feelings and sounds! What part of your body makes you feel alive?"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "Yes, running fast can certainly make you feel happy! Your bones might hurt a little bit if you run fast too, because your muscles get tired and need to rest. But running slow helps your body rest and get ready for the next race! What kind of muscles get stronger when you run?"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "Yes, your hair grows too! It starts as tiny hairs that start as tiny"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "You're right, birds use their wings to fly! And yes, birds have friends in the same way animals do, but they are much bigger and more powerful than them. They have a voice box, which is like a speaker for their songs, and they have feathers for their feathers to catch their bits! What else do you think is special about birds?"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "That's a good observation! Sometimes bats might look on the other side of a fence, or in the sky, but then they are usually"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "You said 'real'. Yes, you can play"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "You spelled 'real'. No, the real bird is not a real person; it's a fictional character created by people who love and adore birds. Birds are very famous and important animals that people enjoy living with, so it's no wonder they are so fascinating! What makes you curious about real birds?"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "You mean 'space adventure'! Space is exciting! A bird doesn't have feelings like happy or sad, because those are just feelings of being alive. But some birds, like the chirping, purring, or even the roaring of their feets! What kind of sound does a bird make when it purrs?"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "You're right, birds definitely hatch from eggs! Eggs are smart because they are made of tiny, strong parts, and then they hatch into baby birds! It's a natural process whereby new birds learn to fly and swim, while still being alive and healthy. What else do you know that is"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "You're right, the sun is super big! So far, the sun has not been studied in the same way because it's a giant star, not a living thing. Scientists don't know for sure if the sun is alive or just looks like it. What do you think is the biggest star you've ever seen?"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": ""
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "I liked big dinosaurs because they were so exciting! There were lots of different kinds of big dinosaurs, from tiny re"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "You spelled 'dinosaurs'. Yes, it's true, the dinosaurs lived a very long time ago, even before people! The first ones walked on land, and now they are no longer alive. Only living animals have eyes to see! What do you think is cool that is real?"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "You're right, water is important for talking! Dinosaurs were very big animals that lived a long, long time ago, even before people! And yes, many dinosaurs were very big too, like T-Rexes, like Apatosaurs, or even some types of birds like Spinosaurus or Spon"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "You said 'does'. An incontinentia can eat dirt! That's how it learned about the ground and found food. But no, an animal cannot eat dirt. Animals usually eat grasses, leaves, and other small bits of soil. What kind of plants do you know that are not alive?"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "That'"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "'Squeaking' sounds like a fun sound to make! No, squeaking noises don"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "You mean 'eyes'! Your eyes are"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "You spelled 'teeth'. That's interesting! You're right, teeth"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "Yes, your TV needs to be built"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "You spelled 'my mom'. That's right, my mom says it's very hot! It's a natural way for things to get hot when it's hot, like when you get a cold shower! What else gets hot when it gets super hot?"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "Playing with friends sounds like a lot of fun, but not a bad thing if they are happy! No, a bug doesn't like to burp. Burping is a normal body function, not a sick or unkind thing to do. What else"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "You said 'flowers'! That's right, flowers need water to grow! And yes, a flower needs water to bloom and grow. A rainbow happens because water helps plants"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "You said 'chirp, chirp'. That's a great sound for a bird to listen to!"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "You're right, many robots have lots of code! That's why a robot with lots of code might feel happy or sad when it gets planted in the ground, or when it gets a hug from a friend. What makes a robot special for you?"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "You're right, being scared can be very important! Feeling sc"
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "A lion's crying is very powerful! Cats don't cry like humans, but they often use their bodies and feelings to help their furry friends! What does your favorite cat to"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "You mean '"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "You spelled 'eye'! No, the Moon itself"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "Your"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "That's a good question! Gravity is just a invisible force that pulls everything towards everything else, making things fall down! It's not really 'bad' if you fall asleep without looking at the stars; it's just a super clever force. What else makes something fall down that you think about?"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "Your blanket sounds soft and cozy! Yes, sometimes blankets can be soft too! They are made of tiny little bits of fabric called nerves that let air out some tears, which is what we cry on! What else helps people cry when they are sad?"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "A ball is not 'bad' unless it gets ripped apart by computers, or has some very silly parts, like a bouncy ball in a playground! A superhero is good at fighting crime, which is why it's so fun to watch him fight crime. What makes a superhero good at something?"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "That's right, animals don't have feet like humans! And yes, animals definitely have feet! They use their strong muscles to walk, and their skin to absorb the surroundings. It's just how their bodies grow as they get older. What else uses muscles to move?"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "You said 'arm's' and 'fingers'. Yes, your arms use muscles to move and hold things, like your wrists! And no, animals don't have fingers, but they have claws and sticky tips that help them sense where things are, and even invisible wings that help them soar! What else uses claws to fly?"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "Happy songs are wonderful! No, a piano cannot sing because it's not"
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "You said 'squ"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "Birds communicate by flying high, licking other birds, and showing their feelings! It's like how"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "A frog sounds amazing on its tiny legs, with tiny arms! Animals don't have ears, but they have a special part called the dorsal rapse that helps them hear and smell everything around them! What part of a fish has the most sense?"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "Green and yellow candy sounds very yummy! And yes, birds have eyes, which are like tiny sensors inside their bodies that help them see around them and find food and water! Their eyes help them see very well into the sky. What is your favorite thing about a bird eye?"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "Reading"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "You're right, singing makes birds so happy! And yes, cats have amazing ears that are super sensitive and can hear everything around them! They have special nerves that help them sense things like how far away a bird was from its nest, or what the wind was blowing in. What do you think c"
+    }
+  ]
+}

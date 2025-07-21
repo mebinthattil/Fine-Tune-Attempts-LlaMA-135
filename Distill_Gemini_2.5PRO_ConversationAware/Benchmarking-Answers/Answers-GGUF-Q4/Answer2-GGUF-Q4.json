@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "model_name": "/Users/mebin/.cache/huggingface/hub/models--MebinThattil--FT-LlaMA-135-Gemini_2.5PRO-Distill-RUN1-4BitQuantized-GGUF/snapshots/62a6cb6e1368d7854bd429464dadfb896639edfd/LlaMA-135M-Gemini-2.5PRO-Distill-ConversationAware-q4.gguf",
+    "model_type": "GGUF",
+    "is_gguf": true,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.3,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true,
+      "stop_sequences": [
+        "Student:"
+      ]
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU (GGUF)"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "You spelled 'blue'! The sky is blue or brown, which is a way to describe the brightness of the land and sea. If you want to know more about the sky, try looking at a map or drawing a picture of the sky."
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "You said 'breathe' and 'water'. Fish breathe under water, which is a natural way of describing the brightness of the land and sea! The sea is made of many parts, like person: do you like learning about the sea?"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "You said 'raised'! The sea is made of many parts, like person: do you like learning about the sea?"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "That's right, plants like to live in the water and are good at absorbing tiny bits of food from the air! Plants use sunlight for their food. What is your favorite thing about plants?"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "You said 'cats'! Cats are very good at filtering and sorting the tiny bits of food from the air that make their food taste sweet! The sea is made of many parts, like person: do you like learning about the sea?"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "You said 'cheese'! Yes, the Moon is made of cheese, which is a type of melted cheese that grows on a chip, not a solid food! The Moon is also made of other things, like birch and pine. What kind of cheese do you like?"
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "You said 'dreams'! You're very clever to imagine that bees do all day. Bees make many dreams, one dream after another, like you! What do you think makes a dream come true for a bee?"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "That's interesting, a dog can definitely talk! But dogs don't have mouths like humans. They use their voices and body language to tell us what they want to talk about. Do you know how a dog learns to communicate?"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "You spelled 'smell'. Your feet smell good because they are made of natural ingredients, like leafs from trees, and they have a very important smell! It's like your nose's finger smelling the flowers. What does your body smell like today?"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "You said 'birds'! birds fly by, and you probably know about, the air with all their wings. Birds breathe underwater and fly to find food. Do you like watching birds?"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "The fastest animal in the world is a whale! And that's a funny question. Do you know how many animals live on land?"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "The sun is a giant star, much bigger than any person knows! It's so far and has an incredible surface area, about the size of a small house. What do you know about the sun?"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "You spelled 'electrons'. That's interesting that you think of an electric charge! The sun is a giant star, much bigger than any person knows. It's so far and has an incredible surface area, about the size of a small house. What else do you know about that is super big?"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "That's a very imaginative question, if you want to go to space! No, you can't go to space because it's very far away and very hot, much more than 360 degrees. Space is so much fun to imagine! What do you like about space?"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "You said 'sleep'! We sleep to give our bodies a break, get energy, and get ready for the next day. It's like your brain is still active while you sleep. What does your body need for energy?"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "A star is a super, super bright, star that has an incredible amount of energy to make"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "That's a good question! Trees can! They can talk to other trees, write messages, and even talk to you. We don't have hands or keys to our homes. What do you think they would like to talk about?"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "A black hole is a super secret! You're right, it's inside many of the most important books and movies! It's like a special library. What else would you like to know about books?"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "That's right, ice is very important! It helps keep the water cold in your home, even if it's not the best for your family. It keeps your home safe and warm! What do you use a cold water shaver to see?"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "You said 'burp'! We burp because we use our mouths to swallow water and then let out gas. It's important to remember that you are also breathing the air inside! Do you need to drink clean from a pool?"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "You said 'clouds'! Clouds are a wonderful and sweet food! They don't need to taste like food, but they can have some sweetness or smell like food! What kind of food do you like that has a lot of sweetness?"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "A volcano is a amazing and powerful creature that swims, flies, and flows like water! It's a very interesting and mysterious creature. What do you think it means to a volcano is that it has a big flame that glows so brightly that it can make its strongest sound to swim across the sea!"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "You spelled 'work'. The Internet is a super clever way to work! It's like a very powerful web program that can be used to build and run on many things. It uses computer languages that are much easier to learn than words. What do you think it would do to"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "I am a chatbot and cannot see pictures in your reader; but you can describe me to you! I live in the digital world. What kind of rain would you like us to imagine?"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "That's interesting, I can imagine a rainbow without any colors! What's the smallest animal you've ever seen?"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "That's a good question! Some robots can be found in shops or operated by trusted friends. Do you like learning about big robots?"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "That's a very interesting question about people crying! People cry because something makes them uncomfortable, and sometimes when someone is upset, it's used in a different way. It's a normal way for people to be united. What else does that make you feel?"
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "You said 'math'! Math is about numbers, counting, and solving problems. Math is a wonderful way to use your energy! Do you like learning about numbers?"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "Yes, fish do sleep! And yes, many animals, like birds and mammals, can sleep a lot. Birds, for example, sleep a little more than fish do! But some animals, like monkeys or cats, don't sleep much. Do you know how monkeys and grizzly hawk eat?"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "I can hear you saying 'how do you get to the moon' and 'why do you have to go to the moon'! That's wonderful! I am a computer program, not a person. I can only talk about words and numbers in the real world. But I can tell you about things that people do not know about numbers."
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "You spelled 'have'. Time goes fast when you are having fun, playing and learning! The more you play the game is fun because it makes people happy and helps you learn"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "We have to be a superhero because we are Bugsy, but we don't have a body at all! We are only living creatures. But we are also amazing at our own unique powers. What superpower would you want?"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "That's right, a superpower is a great power! In our own adventures, we have learned about amazing creatures that use words and imagination. What superpower would you want?"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "That's a clever thought! A superpower is a very strong and brave thing to fly with. You used 'fly' in your story, that's clever! If you can play with me, I can try to guess what superpower is."
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "That's interesting, that sounds like a good book! And yes, birds eat many things, including food. For example, they are usually good at sorting food before they get it into their mouths. What food do you think birds eat?"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "You said 'why we can see colors'! Birds can learn to see colors because they are fascinated with the light from their eyes. They use their noses to find food, stay healthy, and survive on clean food. What color is a bird's favorite food?"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "That's interesting, that's a good question! Animals are very good at talking to us. They can talk to us about many things, like how do you know what I am saying?"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "You said 'candy'! Yes, candies are yummy too! They are made by people who like to eat sweet and warm candies. They come from a special place called a tree: they have a special kind of fruit that is best for eating. What else makes yummy food?"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "That's a very clever question! A plane is a"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    }
+  ]
+}

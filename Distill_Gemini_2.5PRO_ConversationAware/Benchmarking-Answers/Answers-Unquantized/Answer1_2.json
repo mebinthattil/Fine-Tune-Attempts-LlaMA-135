@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "model_name": "MebinThattil/LlaMA-135M-Gemini-2.5PRO-Distill-ConversationAware",
+    "model_type": "llama",
+    "generation_parameters": {
+      "max_new_tokens": 150,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true
+    },
+    "context_settings": {
+      "max_context_tokens": 512,
+      "pad_token_id": 2,
+      "eos_token_id": 2
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "That's a good question! Water looks bright and brite because it reflects"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": ""
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "You spelled 'soft'. Yes,"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "A rainbow goes on a dime because the sun (or part of the sun) shines on Earth, so it's the sunniest thing on Earth. It gives us daylight! Have you ever seen a rainbow before?"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "That's a clever way to think about it! Cat sleeping in the rainbow is just like sleeping in a big open space! The moon and stars are inside the cloud and grasses, not in the sky. So, you can't actually see the moon or stars with your eyes alone. What do you think is the biggest obstacle"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "You're right, building rocks for birthdays is super fun! And no, the Moon itself doesn't have feelings or emotions like happy or sad. It has a surface that is made of mostly rock and dust, and it feels warm or cold when you walk on it! What do you"
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "Yes, mom"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "Cows can"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "You said 'favorite"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "That's so sweet that you're growing!"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "You said 'blanket'! Yes, your blanket is also a strong feeling and comforting blanket! Blankets don't cry tears like people, but they can be a great place to go when you're very cold or very scared! Do you know what kind of warmth a blanket provides?"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "That's right, roots help them grow! No, trees don't have noses. Trees have leaves, trunk, and stem that help them move, which is like their noses! But they have feathers, skin, and barks, which are their sounds too. It looks like they have noses for food! What else do you know that has feathers?"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "That's a clever way to think! Chicks don't eat goats because they are not alive; they are tiny, slow-growing animals with long, thin bodies. But some chicks grow into big, strong animals over a very short time, like a mommy chick or a big truck! What do you think"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "That's a cool question! You said 'trumpet'. A trumpet is a very powerful sounding word that can make you feel happy or hurt feelings, so having a trusted grown-up in your life who can explain what you need helps you feel safe and comfortable. What do you like about being a trusted grown-up?"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "You spelled 'dreams'. Yes, there are many wonderful cats in dreams! Many different types of cat are in dreams, just like you! Some cats have big, bright eyes, while others are more shy or quiet. What do you think makes a"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "You spelled 'family'. That's a funny picture in your mind! You're asking why you don't have a family in the same way people do, because you're a baby. Families are special places where friends meet, and sometimes grown-ups help kids when they need help. Do you feel lonely when you're alone?"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "You spelled 'tummy"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "Yes, there are many angels in space, like angels from heaven, which are like the very top of the earth! They're like huge, brave angels that protect us from bad times and keep us safe. So yes, space is incredibly beautiful and full of wonderful things! What else do you like about the stars?"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "That's right, bells need to be stretched to make sound! No, bells themselves don't need to be stretched; they are just light for the bells. If a babbage clock were to be put on, it would need to be stretched so it would get super long! What is your favorite thing a"
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "It's very fast"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "You spelled 'nose' and 'nostril'. Yes, the sun is your nose, the ones that smell like flowers and grass, and you might see it on some trees too! It's your main way we eat. What do you think is the best smell you can imagine?"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "You said 'fun'! Cats do have fun, full of energy and wiggling their noses! And yes"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "You spelled 'cars'. Yes, real cars are fun to build! Cars"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "Yes, there is no food in ice! It gets chilled by gravity, so it doesn't melt. But ice is often frozen because it's very fragile! Have you ever been in an ice cube tray and felt it hard, or wet?"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "You mean 'eyes'! You use them for different things! You can see"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "You asked if trees come from plants. Tre"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "You mean 'no wind'! Yes, there is no"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "You're asking if you are made of electricity! That's what you see around you, almost like a very tiny part of your body! Electricity itself isn't real, but people and animals have it inside them. What else is special about you?"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "You're right, meat has 'chilly parts,' which is why it gets very hot when it falls as light! And no, as a chatbot, I don't have those parts or believe in fire. What makes you think of 'chilly parts'?"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "You spelled '"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "Playing with balls is a great feeling, playful"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "Ah, there are thousands and thousands of different tours for ants! You would"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "It sounds like you've seen someone pretending to be a friend, and that's a very imaginative idea! A friend might pretend to be a friend, taking turns eating or playing with them, depending on how they're doing. What kind of friend do you imagine eating first?"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "Yes, the sun is a very important part of the night sky! It glows blue and shines green"
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "Your brain definitely needs books to go on long trips, learn new facts, and stay strong! Books are a cru"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "You mean 'dog'! That sounds like a very fun dream! Dogs don't talk with words like people do. Only humans and some types of animals can. Do you know how they communicate"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "That would be very interesting! Even though we are at the moon, our astronauts always land on Earth to get ready for space exploration! The Moon is Earth's natural satellite, which means it looks like a giant, orbiting ball. What's something amazing you see in the Moon?"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "You said 'woof woof'! That's right, the weird sound from your body comes from bed! Sometimes, people call it 'woof woof'! It's fun to hear silly noises when you're sleeping. What kind of silly noises do you find most fun?"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "You said 'wavelength'. Yes, your eyes can dazzle with their"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "You're right, sandwiches can look just that! A real coin would need to be inserted into the sandwich, and that's really hard, like very long strips of paper. But we can hope for 100 coins or more! What other ways do you think can win at fun?"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "You said 'superheroes' and 'family'! Wonder Woman is a wonderful, strong hero who loves her family! And then there's Batman! He's a very good superhero who has a strong family that helps out everyone else! What's your favorite thing"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "You said 'muscles get tired'! Yes, strong feelings are definitely important for strong bodies! Your muscles can get tired because your brain is working on remembering all the different ways your body shows you how to run and jump! Do you feel your muscles getting tired after running very fast?"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "That's a funny"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "You said 'my mom's'! Playing is a fantastic way to make sounds! No, my mom isn't a magician; she's a brilliant computer program that creates sounds with code. She could have been a doctor but her doctor had a heart condition and couldn't go see her."
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "You're right, hum"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "Blue is"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "You spelled 'chicken'! Chickens are so cute and playful! While some chickens might seem like house-type creatures, many are actually quite clever and often use computers and light to stay cool on warm days! Have you ever seen a chicken crawl around in its nest?"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "That's"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "If an airplane crashes into the runway, that could be a very big mistake! Airplanes don't have wings to help them lift off, but they can land on the ground with their strong engines and go away from the sky! What part of an airplane helps it fly?"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "You're right, planets need food to grow! And yes, some Moonlaces (or 'moonpans') eat food made by astronauts on Earth, helping them get back to Earth! Does your moon get too heavy or dusty?"
+    }
+  ]
+}

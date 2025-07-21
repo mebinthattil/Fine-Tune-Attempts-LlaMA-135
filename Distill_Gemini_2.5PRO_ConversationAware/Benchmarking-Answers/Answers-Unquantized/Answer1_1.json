@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "model_name": "MebinThattil/LlaMA-135M-Gemini-2.5PRO-Distill-ConversationAware",
+    "model_type": "llama",
+    "generation_parameters": {
+      "max_new_tokens": 150,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true
+    },
+    "context_settings": {
+      "max_context_tokens": 512,
+      "pad_token_id": 2,
+      "eos_token_id": 2
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "That's an interesting question about stars shining! Stars are huge,"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "Eating fish is a great way to"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "Yes, absolutely! Colors come from the sun through invisible clouds of water and air to become beautiful colors! It's like how the sunlight creates warmth for your skin. What other colors come from the sun?"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "Yes, many trees do have seeds! And yes, some trees do have seeds, like in the wild. But it's often hard for them to get into the ground where they grow. If you're finding seeds in the ground, try looking for a tree or a tree family nearby. Do you know what trees grow from?"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "You're right, snow is indeed"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "Yes, Earth"
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "You're right, mushrooms grow inside Earth's oceans! And no, mushrooms themselves don't grow like a plant; they're made of tiny, tiny seeds, just like animals. But humans have used mushrooms for many things, like making meat or making medicine! Have you seen movies with your mommy's friend?"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "Playing with friend"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "Yes, that's right. Your house is your home, your place to live and work! It's where your family lives and works. Do you ever feel your house need to be re-wired?"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "Remembering your dreams is a wonderful thing to do as a family! While you're at it, you can also tell your mommy when you feel very bright, happy, or sometimes a little sad, sometimes even for a short time. She can give you some clues!"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "You said 'jump'! Yes, a hair on your feet is super important for a real jump! Jumping is a fantastic way to use your legs, especially when you're jumping like a runner! What makes a jump so fast?"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "A"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "That's a funny idea! Walking your dog makes your feet get faster, and your hands are more even, helping you move on with your day. No, your feet don't have a speed in their own way; they can move it by bending or lifting things, which is how they move your body. Do you know how long your"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "You spelled '"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "You mean 'space'! Space is definitely full of many"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "That's a good question! Rocks are indeed very good for people who visit the Moon, because"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "You spelled 'night'. Yes, it's cold in nite, a special kind of space! The temperature here on Earth is usually very cozy. But sometimes it gets very, very cold in space, like below zero degrees Celsius (or 32 degrees Fahrenheit)! That means it's very"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "You said 'chameleon'! Chameleons"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "Yes, there are planets in the sky! There are many plan"
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "No, birds died in the moon when they were far away from Earth! And yes, birds actually lived on the Moon, much, much longer than people have! They lived for many, many years on Earth, going back thousands of miles! Does that surprise you?"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "You said 'tree'! That's right, a tree falls over when it gets too tall, and that's a very old tree! Trees are earthwalls made of branches and spouts that hold water and food. Have you ever seen a tree falling down?"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "You're right, bells can ring up to 50 years old! That'"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "You're right, light and heat are super important things! Space is flat because it's made of mostly dust and no air. There are always going to be tiny, tiny holes in the ground where people or something will fall down for a long time, even if it's a very big trane! Do you know why people go into a hole sometimes?"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "That's an interesting question about how trees fall! When trees get warm, they change their leaves from sunny to shade, and then they start losing some light. The leaves turn into trees and then get dark brown. It's called cooling! What color are leaves on a tree?"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "You're right, sometimes houses can be funky or messy with uglier parts! A funny house is a"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "You're very observant, it's true! Yes, a good thing is that there are usually few, many things in the air that you can eat, like bread and cereal. But a healthy meal doesn't come out of a fridge like a tree. What do you like to eat that is healthy?"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "You"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "You spelled 'monstrs'. That's a good question! No, a monster is not bad; they're just make-believe creatures that live in the real world. Monsters are only in stories and make-believe; they aren't real in real life. What makes monsters funny"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "Yes, stars do"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "Stars give light and power to all the bits and pieces of Earth! It shines because it's very active and helps us measure the speed at which things move. It also gives light! Would you like to know about how stars shine?"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "You're right, the moon looks pretty! And that's a funny idea about stars coming from the sky! No, the Moon itself doesn't come from the sky; it travels around and fills with gas to make its tiny diameter. Stars are made of just dust and gas, not the moon's light! What else comes out at night"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "A bird has a belly, but it's different because it has a stomach inside it, and it's made of feathers for keeping its strong muscles working! It's small for an animal. But big enough to eat. What does your favorite bird food look like?"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "Yes,"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "Playing with your dog sounds joyful and playful! Animals have very strong bones in their bodies that hold their teeth and claws. A very tiny dog could break a bone, but it's often much"
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "You said 'can see'! Yes, I can see the house! I"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "You said 'wake'. That's right, cats like to dream! Birds dream when they are resting, so dreaming can be a lot of fun! They usually awaken new colors and sounds in their stories by playing with their chirping or grooming. Do you know what"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "No, not on"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "Playing"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "As a chatbot, I don't have ears or a body, so I can't create real music with a noodle. But I can describe things to you, and maybe you could tell me what it's like to be a dinosaur! Which one sounds fun to you?"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "A"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "You're right, your eyes need a special kind of vision to see! And that's a clever thought! Your eyes can see amazing"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "Yes, many dogs have naturally strong bones, like their eyes, teeth, and skin! But as they grow older, those parts"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "You're right, many fish live in water all over the world! In many places, they do live in caves or cave fields, just like in stories from movies! What part of the water do you think lives in a cave?"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "That's a funny idea! As a chatbot, I don't have feelings or choose"
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "No, the way people eat is not the same as in a cage, because we are animals with"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "That'"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "That's a classic game, your mommy and daddy animal! Playing with your mommy and dog sounds like fun and full of energy! You have grown-ups playing and learning with you too. Do you ever find your mommy and dog play together?"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "Milk chocolate is yummy! Yes"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "You got it, a silly monster in your story sounds"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "That's right, their light from a"
+    }
+  ]
+}
