@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "model_name": "MebinThattil/LlaMA-135M-FT-Education-Conversation-ConversationUnaware",
+    "model_type": "llama",
+    "is_gguf": false,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.3,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true,
+      "pad_token_id": 2,
+      "eos_token_id": 2
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "No, I'm not. You're just a bad teacher. [End of conversation]Student: [End of conversation] \"I'm sorry, but I'm not understanding anything. Can we try something different? I'm not sure I'm going to be able to learn this way. I'm not going to understand it. [End of conversation] [End of conversation] [End of conversation] [End of conversation] [End of conversation] [end of conversation] [End of] [End of conversation] [End of conversation] [End of conversation] [End of] [End of conversation] [End of conversation] [End of] [End of] [End of] [End"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "[End of conversation] [End of] [End of] [End of] [End of] [End of] [End] [End] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of] [End]"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "I'm not really interested in that. I think I'm going to go. [End of] [End] [End of] [End] [End of] [End] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of] [End] [End of] [End] [End] [End of] [End] [End] [End of] [End of] [End] [End of] [End of] [End] [End of] [End] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "I'm not even. I'm not sure I'm going to be on the other one more. [End of] [End] [End] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End] [End of] [End] [End of] [End of] [End"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "[End] [End] [End of] [End] [End of] [End] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End] [End] [End of] [End] [End] [End] [End] [End] [End of] [End] [End] [End of] [End] [End of] [End] [End of [End] [End] [End] [End of] [End] [End of] [End] [End of] [End of] [End] [End] [End] [End of] [End of] [End of"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "[End of] [End of] [End of] [End of] [End] [End of] [End] [End] [End] [End] [End] [End] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End] [End] [End] [End] [End] [End] [End] [End of [End of] [End] [End of] [End] [End of] [End] [End of] [End] [End of] [End of] [End of] [End of [End] [End of] [End of] [End] ["
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "[End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End] [End of] [End of] [End of] [End of] [End of] [end of] [End of] [End of] [End] [End of] [End] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of [End] [] [End of] [End of] [End of] [End of [End of]"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "[End of] [End] [End of] [End] [End] [End of] [End] [End] [End of] [End] [End of] [End of] [End of] [End] [End] [End of [End] [End] [End of] [End of] [End] [End] [End] [End of] [End of] [End] [End of] [End of] [End] [End] [End of] [End] [End of] [End of] [End of] [End of] [End] [End] [End of] [End] [End of] [End of] [End]"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "[End] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of [End] [End of] [End of] [End of] [End] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of [End] [End of [End of] [End] [End of [End"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "[End of] [End of] [End] [End of] [End] [End of] [] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of]? I'm not even? I'm not. [End of] [End of] [End of] [End of] [End of [End] [End of]? [End of] [End] [End of] [] [End of] [] [End] [End of [End] [ End of] [End of] [] [End of] [End of] [End"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "[End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End] [End] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End] [End] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of [End] [End of] [End] [End of] [End of [End] [End of] [End of] [End of] [End of] [End] [End of] [End of"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "[End of] [End of] [End] [End of] [End] [End of] [End of] [End] [End of] [End] [End of] [End] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End] [End of] [End] [End] [End of] [End] [End] [End of] [End] [End of] [End] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of] [End of] [End] [End"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "I'm not sure I'm going to be a good person. [End] [End] [End] [End of] [End of] [End] [end] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End]? [End of] [End of]? I think I'm done. [End of] [End of] [End of] [End] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of [End of] [] [End"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "I think I'm starting to get it. Can we do another one more? I'm not really interested in this. I'm just going to end the class. [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End] [End of]"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "[End of] [End of] [End] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End] [End of] [End] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] ["
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "[End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] ["
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "[End of] [End] [End of] [End of] [End] [End of] [End] [End of] [End] [End] [End of] [End] [End of] [End] [End] [End of] [End of] [End] [End] [End of] [End] [End] [End of] [End] [End] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End] [End] [End of] [End of]"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "I'm not sure. I'm not really understanding the material. I think I'd like to try a different way of. I'm not sure I'm going to be done with this. [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End] [End] [End of [End of [End of] [End of] [End of [End of] [End of] [End of"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "I'm not sure I'm going to have to go. [End of] [End of] [End] [End] [End of] [End of] [End of] [end of] [End of] [End of] [End of] [End of] [End]? [End of] [End of]? I'm not even, but I'm still, but I'm still a little. [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] ["
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "I think I'm starting to understand. Can we maybe do an activity to see how this relates to the real world? I'm not really interested in that. I'd like to learn more about her life and other famous people who were imprisoned. I'm not sure I'm going to be able to learn this. [End of] [End] [End] [End of] [End of] [End of] [End] \"I'm sorry, but I'm not sure I'm going to be able to learn this. I'm just going to end the conversation. [End of] [End of] [End of] [End] [End] [End] ["
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "[End of] [End of] [End] [End] [End of] [End] [End of] [End] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End] [End of] [End of] [End] [End of] [End] [End of] [End of] [End] [End of] [End] [End of] [End] [End of] [End of] [End of] [End] [End of] [End of] [End] [End] [End of] [End of] ["
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "I'm not sure I'm going to be a doctor. [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End] [End] [End] [End] [End] [End of] [End] [End of] [End of] [End] [End] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "I think I'm good. I'm still a little about the other parts of the nervous system. Is there any other questions you have? I'm not sure I understand. Can you go over the main points again? I'm not sure I'm understanding this. [End] [End] [End]? I think I'm good. [End of] [End]? I'm not sure I'm going to have any questions. [End of] [End of] [End] [End] [End] [End] [End of] [End] [End of] [End] [End] [End] [End of] [End of] [End] ["
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "[End of] [End]? I'm not really getting it. I'm just a little. [End of] [End]. [End] [End] [End of] [End of] [End] [End of] [End] [End of] [End] [End] [End] [End] [End of] [End]? [End] [End] [End] [End] [End] [End of] [End of] [End] [End] [End] [End of] [End] [End of] [End] [End] [End] [End] [End of] [End] [End] [End of] [End"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "[End]? I'm not sure I'm going to have any questions. I'm not even more of. [End of] [End of] [End of] [End] [End of] [End of] [End of] [End]? [End] [End] [End of] [End of]? I'm not sure I'm going to be a good person. [End] [End]? I'm not even, but I'm not sure I'm not interested in that. [End of] [End of] [End of] [End of] [End of] [End] [End of]? [End of] [End of]"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "I don't know. I'm just trying to learn about it. [End of] [End] [End of] [End of] [End of] [End of] [End of] [end] [End of] [End of] [End] [End of] [End] [End of] [End] [End of] [End] [End of] [End] [End of] [End] [End] [End of] [End] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End] [End of] [End] [End]"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "[End of] [End of] [End] [End of] [End] [End of] [End] [End of] [End] [End] [End] [End of] [End] [End of] [End] [End] [End] [End of] [End] [End] [End of] [End] [End] [End of] [End] [End] [End] [End of] [End of] [End of] [End] [End] [End] [End] [End] [End] [End of] [End] [End of] [End] [End of] [End of] [End of] [End]"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "[End] [End] [End of] [End] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End] [End of] [End of] [End] [End] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of] [End of] [End of] ["
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "I'm not sure. I'm done with this. [End of] [End of] [End of] [End] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End] [End] [End of] [End of [End] [End of] [End of] [End] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "[End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of] [End] [End of] [End] [End] [End of] [End] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "[End]? I'm not even. [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of [End] [End of] [End of]? I think I'm going to go about [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [ End of [] [End of]"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "I'm not sure. I'm not really understanding this. Can you just tell me the main points? I'm not going to be the one more. [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of]"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "I'm not sure I understand. I'm not really interested in this. I'm not sure I'm going to learn anything else. [End of] [End of] [End] [End of] [End] [End of] [End] [End of] [End] [End of] [End of] [End of] [End] [End of] [End] [End of] [End of] [End] [End of] [End of] [End] [End of] [End] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] ["
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "[End] [End of] [End of] [End] [End of] [End of] [End] [End] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [end of] [End of] [End of] [End of] [End of] [End of [End of] [End of"
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "I'm not sure I'm going to be a doctor. [End of] [End] [End of] [End] [End of] [End] [End] [End] [End of [End] [End] [End of] [End of] [End of [End] [End of] [End] [End of] [End] [End of] [End] [End] [End] [End of] [End of] [End of [End] [End] [End] [End of] [End of] [End of [End] [End of] [End of [End] [End of] [End of] [End of] [End of"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "[End] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End] [End of] [End] [End of] [End of [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of [End] [End of] [End] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of [End of] [End of] [End of [End of] [End of] [] ["
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "[End] [End of] [End] [End of] [End of] [End] [End of] [] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of [End of] [ End of] [End of] [End] [] [End] [End of] [End of] [End of] [End of [End of] [End of] [End of] [] [End of] [, I"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "[End of] [End] [End] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of] [End of] [End] [End of] [End of] [End] [End of] [End] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End] [End] [End] [End of] [End] [End of]"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "[End of] [End] [End] [End of] [End] [End of] [End] [End of] [End of] [End] [End] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End] [End of] [End of] [End] [End] [End] [End] [End of] [End] [End of] [End of] [End] [End of] [End] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End]"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "[End] [End] [End of] [End] [End] []. [End of] [End of] [End of] [] [End of] [End of] [End of] [End of] [End] [End of] [End of] [] [End of] [end of]? I think that's enough. [End of] [End of] [End]? [End of] [End] [End of] [End of] [End] [] [End of] [End of] [End of] [End of] [End of] [] [End of] [End of] [End of] [End of] [End"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "[End of] [End] [End of] [End] [End of] [End] [End of] [End of] [End] [End of] [End of] [End] [End of] [End of] [End] [End of] [End of] [End of] [End] [End] [End of] [End of] [End] [End of] [End of] [End of] [End] [End of] [End] [End of] [End of] [End] [End of] [End of] [End] [End of] [End of] [End] [End of] [End of] [End of]"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "[End of] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End] [End of] [End] [End of] [End] [End of] [End] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "[End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End]? I'm not really, but I'm still, but I'm still? I'm not going to be the one of. I'm not sure about the other questions about the T End of [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of ["
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "[End of conversation] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of [End of] [End] [End of] [End] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End] [End of [End] [End of] [End] [End of] [End of] [End of] [End] [End of] [End of] [End]"
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "[end of] [End of] [End of] [End] [End of] [End] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End] [End] [End] [End] [End of] [End of] [End] [End] [End] [End of] [End] [End of] [End] [End of] [End of] [End of] [End] [End of] [End of] [End of] ["
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "[End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End] [End] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of [End] [End of] [End of [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of [End of] [End of] [End of]"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "[End]? I'm not sure I'm done. [End of] [End of] [End] [End of] [End] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End] [End] [End of] [End of] [End] [End of] [End] [End of] [End] [End of] [End of] [End of] [End] [End] [End of] [End]? [End of] [End of] [End of] [End of"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "[End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End] [End]? I'm not actually. I think I'm good. I'm just a little. [End of] [End] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End of] [End of] [End of"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "[End of] [End of] [End] [End of] [End] [End of] [End of] [End of] [End of] [End of]? I'm not really, but I'm not. I'm not? I'm not even more of the other questions. [End of]? I'm not sure I'm going to be the other questions. [End of]? [End of] [End of]? [End of] [End of] [End of] [End of]? [End of] [End of] [End of] [End of] [End of]? I'm not even. [End of] ["
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "No, I think I'm done. [End of conversation] [End] [End of] [End of] [End] [End of] [End] [End of] [End of] [End of] [End] [End of] [End of] [End] [End of] [End] [End] [End of] [End of] [End] [End of] [End] [End of] [End] [End] [End of] [End of] [End] [End of] [End of] [End of] [End of] [End of] [End] [End of] [End] [End of] [End of] [End"
+    }
+  ]
+}

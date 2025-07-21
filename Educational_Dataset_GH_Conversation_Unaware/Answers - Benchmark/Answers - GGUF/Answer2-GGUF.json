@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "model_name": "/Users/mebin/.cache/huggingface/hub/models--MebinThattil--LlaMA-135M-FT-Education-Conversation-ConversationUnaware-GGUF/snapshots/b7113b1777441bcc319f63537f64a453425e3c9e/LlaMA-135M-FT-Education-Conversation-ConversationUnaware.gguf",
+    "model_type": "GGUF",
+    "is_gguf": true,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.3,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true,
+      "stop_sequences": [
+        "Student:"
+      ]
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU (GGUF)"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "I'm not sure I'm going to have a question. I'm excited. I'd like to learn about it. Can we do it in the 2? I'm curious, I'd like to learn more. Is there a different from? I'm not sure. I'm not sure I understand. Can we discuss it as a? I have a question. I'm a bit. I'm curious to learn from. I'm excited, but I'm having a question to. I'd like to learn more. I'd like to learn about the history. Is there a different from. I'm not sure I understand. I prefer to have a class. I"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "I'm in the room. Is there. I'm curious to have a different from. I'd like to be a. I'm more. I'm not. I'm excited. I'm curious. I'm starting to get a question. I. I'm not sure. I'm curious about the. I'm in a different. What's there. Can you tell it's in a different from. I'm going to learn more. I'd like to see. I'd prefer to be a in a sc. I'm a. Thank. I'm excited to go. Can we have a discussion? I'm not sure. I'd"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "I'm curious. Can we have a different from the class? I'm not. I'm excited to learn about. I'm not in the game. I'm in the  with. Is there. I'm more. I'm a. I'm in it. I'm sorry. I feel. I'm curious. I'm a. I'm a, but I'm more. I understand. I'm a. Is there. I'd like to learn in the class. I'm a sure. I'm in a different from. I'd be a. I'm starting to be a. I'm a question. I'm a"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "I'm excited. I've heard the name. I'd like to learn about it. Is there a place in the? I'm not sure I understand. Can we do that? I'd have a question. I'm curious, I'm feeling. I'd be. I'd have a question. I'd like to learn about the. How did we know it's a. Is there a different from it? I'm not sure. I'm a. I'm starting to have a question. I'd like to see it in the world. I'm excited to understand the process. I'm excited to learn about. I'm in the  I"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "I'm in. Can we have a question. I'm the first. Is there a place. I'd like to learn about it. I'm to be a test. I have a question. Can we have a discussion? I'd have a question- with a ske of. I'm excited. I'm curious to see. I'm starting to understand. I'm excited. I'd like to learn from. I'm in. I'm not. I'm in the environment. What would have a different from. Is there a test- I'm starting to have a question. I'm curious. I'm a fasc. I'm a question. I"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "I'm in the tour. Is there a place with a question? I'm excited to learn from. I'd like to see it in the real. Can we talk about the. I'm curious. I'd be a. I'm in the process. I'm in the room. I'm in a. I'm excited. How can we have a question. I'm excited. I'm excited to explore. Thank that we have a question. I'm a different from. Can we have a question. I'd like to learn about it. I'm starting. I'm a question"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "I'm a. Can we have a class? I'm a she, I'm a, I'm not a. I'm excited. How does she have a question. I'm a test. Is there a different from a. I'm in a. I'm a. I'm going to be a dem! I have a question. It's a world. I'm a history. Can we have a question? I'm not a. I'm a, I'm a. I'm a, but I'm not sure I understand the story. Is there a place in a. I'm a. I'm in a fasc to be a!"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "I'm in a. Can we discuss the topic? I'm a. I'm a, I'm a different from. Is there. I'm a. I'd like to learn about. I'm going to be a. I'm a, but I'm a. I understand. Can we have a question-? I'm in the place. I'm starting to see a. I'm a. I'm excited. I'm a. I'm a question. I'm going to be the leader of. Is there. I'm not. I'm a different from! I'm a, but it sounds like a different from. Can we"
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "I'm a in the  I'm not. Can we have a question to be a! I'm a, but I'm a. I'm a. I'm starting to understand. I'm to be the. I'm in. I'm a different from. I. How can. I'm in a. I'm excited. I'd. I'm in the place. I'm a! I'm a from. Is there. I'm a world. Can we go to be a! I'm in. I'm in the real. I'm in. I'm"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "I'm in. Can we do it? I'd have a question. I'm in. I'm a that sounds like a weird. Is there a. I'd like to learn about. I'm a history. I'm in! I'd like to explore. I've heard. I'm a place. I'm not. I'm in the room. I'm excited to have a different from. Is it. Can we have a question? I'm not a living in a place. I'm. I'm in a sc. What would you like to learn about it. I'd feel. I'm in the place. I'd be"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "I'm a. I'd be in a place. I have a question. I'm not sure. Can we learn about it? I'm excited. I'm in. I'd like to learn. I'm excited. I'm excited. Is there. I'm curious to learn. What would you tell me. I'm in the place. I'd have a question. I'm a. Can we see it in the room. I'm a. I'm a. I'm excited. I'd be a tour. I'd be in a place. I'm curious about the. I'd like to learn about the history. Is there."
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "I'm a. I'd like to learn about it. Is there. I'm in the room. Can we have a discussion? I'd be a tour. I have a question. I'm in a. I'm excited. I'm in. I'd. Thank. I'm in. I'm question. I'd get it. I would have a question. I. I'm not. I'm in the room. I'm curious. I'm in a scary. I'm in a virtual. Can we have a question. I'm a question. I'm starting. I'm a question."
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "I'm a. I'm excited to have a. Is there a place from? I'm in. I'm a, I'm a. Can we go to the? I'm in the . I'd like to learn about. Is there. I'm a! I'm in. Is there a tour of the. I'm in. I'm a. I'm a tour. I'm in. I'm in. Can we have a discussion? I'm excited. I'd like to learn about. I'm excited. I'm curious to do. I'm curious to learn. I'm a tour. I'm excited."
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "I'm a. Can we see. I'm in the place. Is there a tour. I'd like to learn more. I'm excited. I'm starting to understand. What's it? I'm curious. I'm in. I've heard of. I'm a. I'm excited. Could we have a question? I'm excited to see the. Can we go to a place. I'd like to learn about the history. It sounds like a sc. I'm there. I'm in. Is there a tour! I'm a she. What's it. I'm excited. I'm in. Can we have a question"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "I'm in the place. Can we have a tour! Is there? I'm it would have a question. I'd like to learn about. Is there. Can we discuss the to get it. I'm excited. I'm in. I'm a. I'm in the. I'm in. I'm in. I'm in the tour. I'm a tour! I'm in a history. I'd like to be a. I'm in the. Is there. Can we go there? I'm in the! I'd. I'm excited, the! I"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "I'm in. I'd like to learn about the. I'm excited to be a. I have a question. What is it? I'm a to be a, I'm. I'm a tour. I'm a different from. I'm a. Can you tell me a story? I? I'd like to learn about the history. Is there a fasc. I'm not sure I'm in. I'm excited. I'm so excited! I'd like to learn. Is there a test. I'm a w, I'd have a question. I'm also a tour. I would have a. I'm a to be a"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "I'd like to learn about. Can we have a different from. I'm not in the class. Thank. Is there a place in the tour. I'm a to be a. I'm excited to learn about the history. I'm a different from. I prefer to have a question. I'm curious to see a. I'd like to learn more. Can we talk about it? I'm curious to be a from. I'm in the-. Is there a tour. I'd like to learn about the history. I'd. I have a question. I'm excited. I'm excited to understand the. I'd have a question, but I'"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": ". I'm a tour. I'd like to learn in the to be a. I'm a more from. Is there. Can we have a question? I'm curious about the history. I'm curious to see. Thank for. I'd like to explore it! I have a question. I'm excited. I'm a place. I'm in the village. I'm in a sc. I'm a history. Is there. I'm feeling a different from. I'm curious. I'm starting. I'd like to learn. I'd be a question! I'm excited to talk."
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    }
+  ]
+}

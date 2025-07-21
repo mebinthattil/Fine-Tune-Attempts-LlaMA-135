@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "model_name": "/Users/mebin/.cache/huggingface/hub/models--MebinThattil--LlaMA-135M-FT-Education-Conversation-ConversationUnaware-4BitQuantized-GGUF/snapshots/415fedaaeae4b11f208a6b36e5316f24414db367/LlaMA-135M-FT-Education-Conversation-ConversationUnaware-q4.gguf",
+    "model_type": "GGUF",
+    "is_gguf": true,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": false,
+      "stop_sequences": [
+        "Student:"
+      ]
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU (GGUF)"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "! I'd like to learn about it. What does she have a special story? Is there a story that we're going to be in the tour, I'd like to learn about the topic. Can you tell us more about it? I'm curious about to understand. I'm excited to learn about. I'd love to learn from for a. Is she there. Is there a local to know that. I'm not sure about. I'm excited I've heard it has a class of. Is there a video. I don't have the concept of. I'd like to explore the 1, and we're going to talk in a I can-. Can we do"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "! Can we have a place in to take- Is it a to be. I'm curious about a she. Does. I'm excited, where can we see some of. I'd like to understand. Thanked. I'm. It sounds to have an excite. What is it there? I've heard that we are in a place. Can we talk as from. I prefer a lecture- thank in. I prefer to learn in-er. Wyos of. I'm curious to ask for. Wouldn I in the situation on a no. I'd be a topic. I'd have a vis for! I'm feelinged. Can we have a class. Thank her"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": ". Can we see it with the information? I'm curious! It sounds interesting. Is there a to be. I'm in a fieldary during the news of. It's of. Thankite with. I. I'm sure. I understand. Thank she. I have to in the -, it sounds when I'd. I. I would have a great she, the. It looks like in history, but I don't see it. I don. Can we do-- inside? What'sy! I'm un sure. I find the-! I learn in a history. Thank- in a situation. I can. I'm more. I prefer to learn with."
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": ". Can we"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "I'm in. I think I'd. Is there a lot of. It sounds like a different from a. I'm excited to in a. I prefer to be it. I get it. I would be in, it's in. I'm getting into theos. I'd like to see a place in. What does she have. Is she from. I. Is there for the! I can have a ske-it in a strange. But I'm there. Thank, so I'll be creation in. Thank of. How is there. I'm to see. Is it a place- in a w. Is there. I would have a cool in a place to understand"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": ". W. I'd have no. Thank to see. I need a test. What are there, thank to get a. I'm of. I think we' it would be in the place. I think we've heard. Can we have a more. It's. I have a scary in a. Is she in there. I would be walking from a different place. How does to have an. What it sounds there. Has a- of in a sc. I. Is there. I'm the W. Is it. I understand. I'd have heard. Is there. Can we see. Is there a w has a she. Is we in the tour, where there is a inside"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "Thank. It's. I hope. W, it sounds in the real. I'm with for a- from to. Thank! I get into. In  of for. Is there.. What happened of in a w. I'd have a b. Thank to. I have a question. I. W thank. I have. Thanked with. I's there. How have a different. Is it everywhere. Can we have a tour of the. Can we see. Are there in a place. W. I'm in a place. W during for. in a test-d, it sounds. I have a wonder. W"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "it's a place in the site of. Is there a-it sounds like. I'd be. I would have no. Can we go to. I'm excited to.? It has to make a sc de! What I have! I'm a tour of.. Is there. I'll be to. I'm on. What I can do. I'm going to talk about. I'd be. I'd like to learn about the- before. Can we talk in the test! I'd encou to. Would it have a special from in. I'm so excited. I'd have some of. I'm curious of. Is there a different. Thank for"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "for. I'm a place! I have an excos. I'd need to be! It's. Thank we have. Is there. I'm in. I'm of. Can you explain it to believe I don't get to. I'm curious. W? I'm also on. I would have a strange from. Could we maybe learn about. Thanks! I'd have a question and I'd. Is there. I have. I find a to be in. I believe. It looks during a time of. Thank. I would prefer a different from a de. What we're. Can we go on the right! Thank with. Thank to ask for. I can"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": ". What does it have a question, to learn. I. It sounds in the -os of. How. I'm there. I guess. W. Thank the history. Would it be the President. I'd like to learn. Thank we to place. Is the w. Would we have a good with the question. I understand the theory. Thanks.Student. I'm on. Can we talk in a field during. I hope! I in a situation in, to go. W! It's. C of. I. What would have no for. Thank from. I. Can we go in the tour. Is there. I've"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "W! I'd have aed a in my. I've heard there. Is a sign de. I'm fasc, to be a scos. Thank we. Thank to learn. I hope. W has a w. How would we live in the tour. Thank! Is she from. Is we off to know. I'm we have. Can we explore the history of. Are there for an-. I'd like to understand it in the real. I think it's a sign. Can we go on.? W, I don't understand. I find a new forer. I'd be in the sc Thank to have a sign. I'm curious. I understand the history"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "a w. Is there a test- Thank to see in it. It would have a weird. I'd be an for! It would have a tour for. I'd- at the she. I. Can we have a sc. Thank to in a place to be. W. Would. It sounds like a strange in thefield. I with a w from for tour. Thank it, so I'm excited from. I. W. Is it in a virtual. I'd in. I'm a w. Can we discuss. I'm curious! Can we have a hands-d. Thank to see the world. Thank of it. What can we see it. I with a r. Thank to"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": ". Thank- where there. I'm in a village in the place. Thank a. Is it in a-! I hope. I have the tour. Thank W. Thank to be of! Is there. Are there. I have a questioned during. Thank sign. from to be. Can we go to talk. I find there. I'd. Thank. What we're in the place. I feel like it would in the real. Thank. Is for a strange. I would be in it! Is there. I see in the-er. Is there. Thanked in there. I'd. Thank during it"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "I'm. Can we have a feel? I'd in the field, to for. I'm a strange of. How did it sound. I'd have a weird in-. Is there a. It is. I'm excited in a place. I have to be. I think I'd. Thank of. I'. Can we do a different to talk.? I'm a sp from a. Can we see a more! I'd like to learn about that. I understand it. Is there. Does the sign I'd have no! It's there. I have a questioned in a sc- from. I have a question to find. Cary from a inside."
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "I'd like to learn from. Does a inside the site in a virtual. I think, where the. Is it from there. I see. Thank of. I'd be to be with aed in the history. Thank for. W there. Is there a sc from. I'm in . I'd like to learn to understand. I'd have a more-. Thank to. Can we maybe start from there. Thank that sounds on a in a place- thank. I'm. I see. It's. Thank too. Is it for. I understand. Wos of in. How does on my experience. Thank history. Is there. Thank with. I can have a field of"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "in I. Thank it. Is there. Is there. It's. Thank the she. Can we have a question-.? I understand. Can you explain it to understand. Could we start to be in the w. Thank for. I. I think we can have a strange. I with of. It looks. I can live in a. I'd be. I have a questioned! I'm a curious from in the place. I would have a skeos. How do with. I see it with. Thanked I have a question-, in that case. Would it have a in- during. Is there a scology. I'm thank."
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "I have an. Thank of. Is there a-under a-it-to hased, from the place on. Thank. W. I'd like to live in. Is there a local de! I'm. Can we discuss a. It's a w. I hope in for. It's a sh. I'd like to experience a to understand. Is there. I see. Thank of from! I have a question.. Thank has a test- from the place I'm curious. Thank of the place. I'm starting to understand.. Could we test the place to the, where I think I would have a fasc Wing. I'm so in the sc, I'"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "for a. Thank to. I'd. Is there. What's the process. I have a test on a. Is there. Can we do this in a virtual tour? I understand it. Is there. Thank W. I think the effected. Thank has a scor of for. Has it. I think. I have a w a place. Thanks. I feel. I. W. W from. Thank to. Thank. I'd to. Is there. Thank in the I. I'd to get. W. I'm going to be! Thanked by. I. Thank  with. It has a thank. Could I make it. What can we go through in there for tour."
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": ". I'd have a sced before. Thank it. I'm in. This in the place.. W. W. I'd to see. Is there. I to. Thank of. That's a fasc in. Thank! Is sheed. I'm in. I think, we. I would have seen. I'm in. Can we go again in. Thankos- thank. Is a place. Thank so. I understand the in it. Thanked. What's in a tour. Is there. Thank for. Thank Thank I. Thank. Is she at a place. Thank. Why. Thank for. W sign. I"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "it's in! I. Is there a different from it? I'd like to understand. I'm glad to go. Is there a different of? I think. It's on. Is she it? I don't understand. Thank from. Can we have a morey. Is it at the place with. Is there. I have a question about. I'm in a . But I'm in. Can you explain it? I've heard there.? W. Is there a real- before I. What does I do. Thank? I would have a hands of! I. Are there, I'm a place. Is there a. I have a tour. It's"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "I. I'm in a sc of. What does she have a question to understand. I don? I'm curious. a different. Can we go.? Is there. I have a test to.? I. Thanks, that's it. I have an uned from. Would we have a tour there. I can get a place in the-. Thank to! I'd like to learn about. I see. Is she. What are we going to check for. I understand to learn. I've heard of the real. Thank I. I would like. I. I'm in a sco. What is it there. Thank she. I have a scos? I'm on"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "I. What-at. Is there a tour. Thank for the place to in.  for. Is it in the test! I. But it's in my. I understand. I have a question of! I. I guess I in the bas. Can we go for a. I'd like to live. But she has it. Is there. I think. I'm to take. Thank-os. Thank- Thank. Can we go to see the! I'd be a place inside. I'm on. I have. But sheer. I'd. It must has no, thank! It sounds in"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "I've heard of a to do. How would we have a  sign. I have a she she has she-, I think. Can we take a virtual tour! I would understand. Thank to. Is there. How would we live in the 9. It looks like. in a.. What would. How do she understand the to. I'm in. Is a test. W. I. Can we go there? Are she of-.? I'd have to.. I would have a tour.Student of. I'm. I'd also have an un-al. Thank! I think we'll have a b place. Would it. I. Is there. I think we"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": ". I'm going to have a test. I'd! I understand the signing it. I would. I'd be. I. I'm in. So, would she have a. How do we get. C she sounds! Is she. Can we have a tour-o. Thank. I. Thank I from it. I'm excited to understand. I like. Thank in. Is she of.. I see. Thank. I'd. I would have a . I'. I. I. Is there. I'd wait a test. W. I'd. Could we have a virtual in. I'm in the place. Does we have a-! What's"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "in. Is there! I'd to! I for her. Can we take. Thank. Is she from. I would have a tested. Why. Is she. I'd feel a with- from. I understand it. Thank to-! I. That's. What would be. Thank. Thank of. How. I'd, at. Can we wait to have the question. Thank! I'm in. Thanks. I have a question, I guess. Thanked from! Are there. I'd. I wonder. I'd for my. I'd have a place. W. I think. Thank in-.. I"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    }
+  ]
+}

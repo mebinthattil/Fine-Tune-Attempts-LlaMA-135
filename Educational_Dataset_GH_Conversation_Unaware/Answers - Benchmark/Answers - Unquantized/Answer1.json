@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "model_name": "MebinThattil/LlaMA-135M-FT-Education-Conversation-ConversationUnaware",
+    "model_type": "llama",
+    "is_gguf": false,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true,
+      "pad_token_id": 2,
+      "eos_token_id": 2
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "It's just a beautiful painting. I'd rather learn something more interesting. Is there any way we can make this more interesting? Maybe we could tell a story about him or play a game that's supposed to help you understand.Student: That sounds better! I like stories. Can we hear it? I'll be happy, but I'm not really getting it. Can we do something more hands-on? Like, maybe we could build a model of his ship or something? That would be more interesting. I guess that would be cool. But I still think I'd learn better from a lecture. I can actually see it in person. But if it's still a little, I'm probably going"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "I'm not sure I understand. I'm not sure I'm going to be able to learn this way. [End of conversation]Student: Wow, that's fascinating! I'd rather just have you tell me about Poseidant? I'm getting anxious. I don't know what I'm going to get to the other parts. This is boring. [end of conversation]. I'm not going to be interested. [End of conversation].\" (0.3) \"I'm not good at this kind of thing.\" (0.2) [End of conversation] \"].\" (0.4) \"I'd rather take a character who"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "I'm sorry, but I'm starting to feel like I understand it now. I'm not really understanding anything. Can we go back to the video game. [End of]? I'm not even.\" (Interactive)?\" (4) [End]) \"I'm not really understanding. I'm getting a lot of information about Pose.\" (0.1) \"end of. But I'm still not. I'm not understanding anything. [End of].\" (0.6) \"Ses) [End of other than other other mythical people of the same size]) But maybe they're kind of! What else is there? I'm not, but"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "I'm not sure I'm going to be able to do this. I'm going to need a more information. I don't think I'm going to ever feel it. [End of]. [End. I'm starting to see some of the real-time questions. Is there anything else I'd know about. I'm not really getting it. [end of] [End]? [End of]].] (An of [End.) [End of]] [End.]]. But I'm all about the other things? I'm not really interested. [End of]. [End of]]. [End]]] [end of] [End of] [end"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "I'm just trying to understand the topic. I'm not getting it. Can we try a different way of learning this? I'm not understanding it. I'm going to need to go through my questions and discussions with the other people. [End of conversation]. [End of conversation] [End of]]\" [end] \"I'm sorry, I don't have any other questions. I think I'm good foresh I'm getting home. [End] and end of conversation]. [end] [End of conversation] [end [End of]. [End] [End] [End of]. I'm not. [End of] [End of] [end]"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "[end of].\" (0) [End of] [End of] [End of] \") [End of] (The I'm going to give you the answers. [end] [End of conversation].\" [End of [End of] [End] [End] [End] [end] \"end of] [End of] [End of [End] [End of] [end] [End of] [End of] \"] [End of] [End] [End of [End] [End] [End] [End] [End of] [End of] [End of] \".\" (0. [End of] [End] [End of] \"]."
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "Okay. [End of]. [End] [End of]. [End]] [End of] [End of [end [end]? (end of]. [end] \"] (] I think I'm going to end of End of [End of] [End] [End of] \"] [end of] [End of]] (] [End of] (1) [End of [End of] [End of] [End of] [End of] \"] [End of] [End of] [end]] \"I'm going to try to paint in the game. [End of] [End of] [end of] [End of] [End] [End"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "Okay, I think I'd understand it now. Thanks for the information! I'll go through the material again, but this is still a bit of a problem. Is there anything else I should know about him? Maybe he's also some of his other works. I'm glad you're done with? [End of [End] [End of] [End [End of] [End] [End of]] \"I'm not sure I'm good. I'm not really getting it. I'm trying to. [End of [end]? That's all of them? I'm done. [End of] [End of] [End of [End of] ["
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "I don't know what you've got.\" (0.8)? I'm going to the quiz questions. But I'm still a question, but I think I understand it now. Thank you for the answer? I think I have a question. [End of]? I'm not even with this! I'm sorry, I'm going to go. [End of] I'm sorry. [End of] [End of] [End of End] (1 [End of O. I'm sure I'm okay. [End] [End of of [End of].\" (0.] [end of] [end of) [End] \"I'm"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "[end of]. [End of] [End] [End of]. [End of] (An [End of]? I'm good. [End of] [end of] [end [End of] [End of] [end of.] \"end of] [End of [end] [end I'm not enough of] [End] [End] [End of] [End of]?\" [End]? That was a cool, I guess. [End] [End of] [end of]. [End of of] \"] [end] [End of] I think I'm done with the main, but I'm not very good. I think I'm done."
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "[End]? [End of] [End] [End of] [End of conversation] [End of [End of] (End of Interest] [End [End of End of] [End].\" [End of] [End of] [End].\" (0.1) \"I think I'm going to end of End of End of] [End of end of [End [End of [end] I'm ending] I'm not even going to find a other stories about a other prisoners of today. Thanks for the class? I'm sorry. I'm done. [End]. [End of] [End [end of] [End] [End of]] ["
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "[End]? [End of] [End] [End] [End of]. [End of Ooh] [End] [End of]? [End of] [End of]? I'm never heard of any other questions. [End]? [End] [End of] [End of [End of]. [End of.] [End] [end of]. [End of [End] [End of] [end of [End of] [End of] [End of] [End] [End of [End].]. I think it's okay for an example of a person in that, but I'm still a great example of how this relates to the rest of"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "I'm done. [End of] [End] [End of]? I'm done with [end of] [End of] [end. [End of [End] [End of]. [End of] [End] \"] [End of No other about the other end of the other part I think I'd end of? [end of]? [End of] [End] [End] [End of] [End of]] [End of] [end]? That's interesting, I'm just kind of of. [end]? [End] [End] [End of] [End] [End of] [End of] [End of] [end"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "Wow, that's a great story! I'll never heard of this. Thank you for the discussion. I'd like to learn more about Medusa's powers. [end of] [End of End] [End] [end] [End of] [End of] [End].\" [End of] \"] [End of [End].].\" (0) [End of] [End of conversation] [End] \"I guess I'm not really understanding the material. I don't think I'm going to be on the quiz. [End of] [End] [End of]? I'm going to ask some questions and I'm going. [End"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "[End] [End of]. I think I have a good. [End of End]. [End of]]]] [End] [End]. [end of [end of] [End of [End of] \"] [End of [End]? [End of] [end of] [end [End] [End] [End of] [end of]? [End]? [End of]] I'm not sure I understand. I'm sorry, but I think I'm going now. [End of]. [End of [End of]. [End of.] [End [End of] [end of.] [End of] [End of]. [End of"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "[End of]. [End of] [End of [End] [End of] [End] [End of]] [end]. I'd like to see more of. [End of] [End of.] [End of]. I think I'd rather end of. [End of] [End of] [End of] [End of] [End of] [End of] [End of]. [end of] [End of]? I'm still a bit. [End of] [End of] [End of]. [End of]]] [End of] [End of] [End of]? [End of [End of.] [End] [End"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "[End of] [End of] [End]? [End] \"I think I'm good. Thank you for the information. [End of [End] [end of conversation].\" (Interactive) I'm not sure I understand. Can you go about another painting and another one?Student: No, I think I've heard of that. [end of] [End of] [End] \"I'm not sure I'm going to be the one more. [End of] [End of] [End] I'm not really interested in that. Is there anything else I can learn about Van G.\" [end of [End]? This is a lot of paint, but I"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "I think I'd rather just read about it. [End of] I'm starting to feel like I have a question about his art. I'm not a very famous artist. Can we try an activity to learn about him? That's a good idea. [end of] [End] [end] [End] [End of] [End of]? I'm not sure I understand. It sounds like it's interesting, but I'm still. I'm still, but I'm not sure I'm going to be on the test. [End of] \"End of], [end of]] [end I'd rather go back in some of. [end of"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "I'm not sure I'm going to use of a test than other. [End of] [End] [end of] \"I'm sorry, but I'm not really understanding this. I'm not sure I'm going to get it. [End of] [End] [end of]? [End]?\" [End of]. I'm not even more. [End of] [End]. [End of] [End]. [end of] [End of] [End] I think I'm done. [end] [end of] [End of]. [End of] [End of] [End of]. [End of].\" [end] [End"
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "I think I'm good. I'm just going. [End of]. [End of]. [End of] [End of] [End]. [End of] [End of] [End of [End] [End of] [End of] [End of.] [end of [End of]? [End] [end] [End of]? That's all the other important parts of the cathedral. [End of]. [End of] [End of]. [End of] [End of] [End]] [End of] [end of] [End of]. [end of]. [End of] [End]] [End of] [End]? I'm"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "I guess I'm not really understanding this. [End of [End] [end] [End of] [End of]. [End of] [End of] [end]? [End of] [End of] [End of] [End of [End of] [End] [End] [end] [End of [End of]. [End] [End] [End] [End of] [End [End of]] [End of] [end of] [End of [End of [End] [End of]] [End of [End of]] [End]] [End of of] [End of] [End of] [End] [end of] ["
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "[End] [End of]? [End of] (] [End of] [End of]? That's interesting! [End of] [end of]. I'm not going. [End of] [End of End] [end of].\" [End of]] [End of] [End of] [End]?\". [end of] [End of]? I'm trying to think you're going to be a pretty good history. I hope she was again! [End] [End of] [End of [end of] [End of] I'm not really understanding. [End]. [End of] [end of] [End of]? ["
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "Okay, I guess I'll go now. I think I understand the material. Thanks for the questions! [End.]. [End of [End] [End of] \" [End] [End of]? [End] [End of]. [End of] [End] [End of] [End] [End]. [End of] [End] [End]? I'm starting to end the other questions now. Thank you. I think I'm going to have a class [End] [End of] [End].\" [End of] [end of] [End]? [End] [End of]?\" [End] [End of]? [End]. [End of]"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "I'm done with this. [End of the rest of [End]. [End of] [End of]. [End of]? What's now? I'm not care about that. [End] [End]? But I'd like to learn more. [End] [End]. [End]?\" [End]] [End] [End] [End]] [end of] [end] [End of] [End] [End of] [End] (0) [End] [End] [End of]]. I'm still some of that's interesting. I'm just one of the other questions about other people. [End]. [End of]"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "[End]? I'm not even, but I'm sure I'm okay. [End.]? This is kind of cool. [End]. [End of]. [End]? I'm never, but it seems like there's a way I'd read now. [End] of]? [End]. [End]? [End]? I think I'm good? I'm still a lot of. [End].\" [End of] [End of]? [End of] I'm going for a other other parts about the Par after I'm still. [End of] \" than... [End]. [End of]. [End of]?"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "End of? I'm done. [End of]. [End of End]. [end] [End of]. [End of] [End].\" (0.8) [End of] [End of]. [End]\"? I think I'm done with my paint and now. [End]? [End of end]. [End] [end].]Student: Whatever. [end of] [End of]. [End].\" [end] [End of] [End of] [End of] [end] [End] [End]? [end of]. I'm going to see some of the other paintings from. [End of]? I'm done"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "I'm still trying to take this class. [End of] [End of]] [End of]] [End] [end of] [End] [End of] [End] [End [End] [End of [end]. [End of]] [End] [end]. I'm done. [End] [end of]? I think I'm done. [End] [End] [End of [End]. [End of [end of]] [End] [end] [end] [end of] [End of]? [End] [End] [End of] [end] [End of] [End] [End] [End] [End"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "I'm not really understanding this. Can we go back? [End of]? But I'm still not really going. [End of] [End] [End]. [End of] [End of].] [End] [End of [End of].\" [End]. [End [End of]. [End of]. [End]] [End of]? [End]. [end] [End of] [End of] [End of]] [end of] [End of] [End] [End of]? I'd rather [End] [End of] [End [End] [End of] [End] [End] [End] [End [end"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "No, I'm done with this. [End of].\" [End of conversation]]Student: Wow, that was so cool. I'm not going to have a class discussion about it. [End of].\" (0) [End of].\" [End of [End of of].] [End of]. [end] [end] \"I think I'm good for now. I'm done with the T. [End of].\" (end of O. [End].\" (0. [End of]. [End] \"End of].\" (0.4) [End of]? [End of] [End of]? [end of] [End] \"]"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "That's interesting. I think I'm starting to get it. Can you tell me more about her? [End of]?\" (0.55) [End of the Par? [End of]. [end of]. [End]] [End of] [End] [End of]. [End of] [End of] [End] [End of]]]] [end] [End [End of [End of End]. [End of] I don't understand it? I'm not sure how they're getting out of the last. I guess I'll try. [End of] [End].\" [End] [End of] [End]. [end of]"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "[End]? That's interesting? [End] [End]? [end of] [End of]. [end of] [End]] [End] [end of [End of]? I'm done.\" (] [End of] \". [End of] [End of] [End of]? What else? I'm going to get a good class. [End of] [End of? I'm not really interested. I'm trying to take it? I'm not even going to see. [End of]? I'm a lot of other questions. I just feel the rest of the class. [End of] [End]. [End of]"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "5 of the other? Can you tell me about his other works? I'd like to learn more. [End of [end of conversation]. [end] \"End of] (0. [End of) [End of [End of conversation] [end of] [End of] [End of [End of conversation] [End] \"I think I understand it now. Thanks for the information! [End of] [End] [End of of] [End of] [End] [End] \"End of conversation? [End of] [End of]? I'm not sure what he's not actually. [End] [End] \"] (End of [End of] ["
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "End of Interest of?\" (0.4) \"End of the other 20 of other, I guess. But that's all I'm lost. I think I have a good story. But what about other other important parts of his work?\" (End of End) [End of Hes]. [End of]. End of O.]?Student: No, I'm not. I don't know any of them. [end of [End of] (1]? [End of End of H Is there any way we'll end the lesson? [End]? [End of] \"I'm sorry, but I think I'm just not going to understand. Can you go."
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "[End of End]? I'm done with this! [End of]. [End of [end]?]]? Okay, I think I understand. [end of] [End of]? [End of] [End of]? [end] [end of]? I'm the most? I'd love to go back. [End of End] [End of]] [End of [End of]] [End].]]? [End of [End of [End of] [End]? [End of] [End] [End of] [End] [End [End of] [End of]] [End of] [End of [end of] ["
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "No. I'm not even going to have one more question. [End] [End] [End] [End of] [End]? [End] \" [End] [End of] [End of] [End] [end of] [End of] [End of] [End of]] [End of] [End [End [End of] [end]] (1] [End] [End of]? [End of] [End] [End] [End]. [End of] [End of] [End] [End of] [End of] [End].] [End of] [End] [End of] [End of] [End of]"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "W] [End of]? I'm good. [End of]] [End of [End] [End [End] [End of] (0. I'm going to go now. [End of] [End]] [End] [End [End]? [End] [End] [End of] [End].\" [end] \"] [End] [end of]? I'm sorry, but I think I'm just good? I'm not really getting the information. I'm not sure about the other parts of [End of]\"] [End]? But I don't care about the other questions. I'm going to end of [End]."
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "I'm trying to go. I'm trying to make a good rest, but it's just a pretty cool [end of]. I'm just going to try the other 5. [End] [end of [End of]. [End] [End] [End] [End of] [End of of End End] [End]. [End of [End of]? [End of] [end] [End.] [End of] [End of [End of] [End of End of O [End of]. I'd like to try a game and a final. [End] [End of] [End of] [End [End] [End of]] [End"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "[End of.]] \"I don't understand any of the other. [end of of] [End]] [end].\" (0.3) \"I'm not sure I'm understanding it. I'm not sure I'm going to be a very good person. [End of] [end of] [End of] [End] [End of] [End of] [End of].]. [End of] [End of of [End]] \"] [End of] [End of] [End of].\" (End of] [End of [End]] [End] [End of] [End of] [end of]. [End of] [End"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "[End of] [End]?\" [End of the Paral] (1) [End of]. I'm all about the Hasting I'm not going to go] (0) [End] [end [End of] [End of] [End of] \"End of [End] \" [end] I'm done with this [End of] [End of].\" (0.3]] \"] [End of]? I think I understand the story of the Hara No more. But I hope you have some questions. [End of] [End of [End] [end of [End] [End of]? [End of] [End of] [end]"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "[End].\" (1) [End of] [End of] [] [End]] [End of]. [End of] [End of] [End of] [End of] (]? That's all of of notes. I'm going to end of [End]? [End of] [end of]. [End of] \"] [End of]]] [End of]? What are some of his other other questions? I don't care about you. I'm not even going.\" [End] [end of]\" [End of] [End] [End of] [End of] [End] [End of [End] [End] of] ["
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "No, I'm done. [End] [End of] [End of]] \"W.] [end of End] \"I'm not interested in the other questions about Hercules. Are you going through this? I'm still a great teacher. [End of conversation] [End] [End of No other]. [End of O]? I think it was okay. [End of] I'm not even one. [End of conversation] [End of] [End].\" (0) [End of Interesting. [End of] \"] [End of end of] (0. [End of [End of]?\" (End of Interest) [End [End of]. [End"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "[End of] [End of] [End of] [End] [End of]. [End of] [End of] [End of [end of W].] [End of] [end of I'd rather. [End of [End].] [End of]? Okay. [End]] [End of] [End of] [End of] [End of]. (A Wh] [End of] [End]? I'm done. [End] [End of [End] [End of] [End of [End]? [End of [end of] [End of]?] [End of] [End of] (0. [End of]"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "[End of] [End] [End of [End of]]?\" (? That's a question [end of [End]? [End of.] [End of]. I'm not even more. [End of [End of] [End of.] [] [End of]? [End of] (T No. [End of]] [End of]. I'm not enough! I'm just done. [End]. [End]? I'm not enough. [End of] [End] [End of] [End of] (1 [End of] [End] [End of]? I don't care about the other one more. [End"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "I guess I'm okay with I'm done with? [End of of]. [End] \"End of] [End of [End]. [End of] [End of]]], [End of] [End] \"I'm still not interested in this. [End of]. I'd like to take notes. [End of] [End of]. I'm not really getting it.\" (). [End of]. [End] [End] [End of] [End of] (0) [End of] [End of] \"]. [End of] [End] [End] [End of] [End of]] [End of] [end [End"
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "I'm not really understanding this. I think I understand now. [End of Interest] [End of Ooh, that was interesting. I'm done with my phone of. [End] [End of] [End of of] [End of [end].\" [End of] [End] [End of] [end] [End of] [End of] [end of] [End of]. I think I'm going. [End] [End of] [End of] [End] [End of.] [End of]? I'm not going. [End of] \"End of End] [End] [End [End of] [end] [End of] I"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "I'm still not sure what else? But I guess I'm not sure. I think I'd guess [End of]. [end of conversation]. [End of [End of] [End of] [End [End of]. [End of] [End of] [End of] [end of] [End of] [end [End]? [End of] [End of]? [End]? I'm not really. [End] of]].\" [End of]] I think I'm kind of lucky. [End of] [End]. [End]? I don't know about any of [end of] [End]. [End of] ["
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "Is it because it's not a good one?\" (End of conversation] [End of.], but I'm still a little. I think I'm done with the painting! [End of]. [End of].\" (0.4) [End of] \"]? [End of] [End of]? I'm done. [end]? That's all of a [end of]. I think I understand now. Thank you. [End].\" [end of] [End of [End]? [End of].] [End of]? I think I'm okay. I'm starting to get it. [end of]. [end of] [End"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "I'm not interested in this. I think I'm not going to go. [End of] [end]? [End of]? [End of]] [End]? What else? I'm trying to learn about it. [End] [End of]] [End of] [end]? [End]. I'm not even trying to feel this. [End]. I'm just going to end of [End of].\" [End of] [End.] [End of] [End of End]. [End of]? [End of] [End of] [end]. [End of]? I'm sorry, I'm lost. [end"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "[End]? [End of] I don't understand. [End]? I'm sorry, I'm kind of lost. I'm not really getting this. [End of] [End of]. [End of]? [End]. [End of] [End]] [end of] [End].\" (End of than? [End of]]? I'm just a little of that. I don't care. [End of] [End].\" [End of [End of]] [End of]. [end of] [End] [End of] [End of]. [End of].] [End of] [End] [End of] [End]."
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "[End of] \"] \"End of O. I'm not even. [End]? [End of] [End of]?\" (1) \"a. [End of] [End of] [End.] [End of]? I guess I'd rather just end of for another. [end of [End of] [End of of of]] [end of]] [End of [End] [End] [End of] [End of] [End] [end] \"]].\" [End of] [End of End]? I'm sorry, but I'm done with the class.\" [End of]. [End].\" [End of] (End of ["
+    }
+  ]
+}
