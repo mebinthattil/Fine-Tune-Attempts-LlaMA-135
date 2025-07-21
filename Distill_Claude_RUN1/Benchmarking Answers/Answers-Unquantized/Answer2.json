@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "model_name": "MebinThattil/FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN1",
+    "model_type": "llama",
+    "is_gguf": false,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.3,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true,
+      "pad_token_id": 2,
+      "eos_token_id": 2
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "Blue is so beautiful! It's so bright and vibrant! What color would you like to see in the sky? What color would you like to see in the sky? What color would you like to see in the sky? What color would you like to see in the sky? What color would you like to see in the"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "Fish are amazing creatures. They help us learn about the ocean and help us find food. They also help us learn how to swim. What fish species do you know? What species of fish do you know? What species of fish do you know? What species of fish do you know? What species of fish do you know? What species of fish do you know? What species of fish do you know? What species of fish do you know? What species of fish do you know? What species of fish do you know? What species of fish do you know? What species of fish do you know? What species of fish do you know? What species of fish do you know? What species of fish do you know? What"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "Rainbows are incredible! They create a beautiful halo around the sun that makes it look like snow. What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What color rainbow looks like? What"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "Plant eating is important for healthy growth and development. Plant eating helps us grow stronger and healthier. What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant eats? What plant"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "Cat purrs are like birds chirping! They're amazing at communicating with humans, and they're also great at making noise. What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds like? What cat sounds"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "Cheese is made from milk and cheese. What cheese does the moon make? What cheese does the moon make? What cheese does the moon make? What cheese does the moon make? What cheese does the moon make? What cheese does the moon make? What cheese does the moon make? What cheese does the moon make? What cheese does the moon make? What cheese does the moon make? What cheese does the moon make? What cheese does the moon make? What cheese does the moon make? What cheese does the moon make? What cheese does the moon make? What cheese does the moon make? What cheese does the moon make? What cheese does"
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "Bees help us learn about different kinds of plants and animals. What plants do bees love? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do bees hate? What plants do be"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "A dog can talk! It's like talking to a friend. What dog would you like to talk to? What dog would you like to talk to? What dog would you like to talk to? What dog would you like to talk to? What dog would you want to talk to? What dog would you want to talk to? What dog would you want to talk to? What dog would you want to talk to? What dog would you want to talk to? What dog would you want to talk to? What dog would you want to talk to? What dog would you want to talk to? What dog would you want to talk to? What dog would you want to talk to? What dog would you want to talk to? What"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "Car drivers are so funny! They're always smiling and laughing at you! What's the best part of your car? What's the worst part? What's the best part of your car? What's the worst part of your car? What's the best part of your car? What's the worst part of your car? What's the worst part of your car? What's the worst part of your car? What's the worst part of your car? What's the worst part of your car? What's the worst part of your car? What's the worst part of your car? What's the worst part of your car? What's the"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "Dreaming is amazing! It's like being in a dream. What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dreams do you have? What dream"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "They smell like feces! How can you smell your feet? What smells like feces? What smells like feces? What smells like feces? What smells like feces? What smells like feces? What smells like feces? What smells like feces? What smells like feces? What smells like feces? What smells like feces? What smells like feces? What smells like feces? What smells like feces? What smells like feces? What smells like feces? What smells like feces? What smells like fec"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "Birds fly! They fly like wings! What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What bird flyest? What"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast! Animul is fast!"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "The sun is bigger than the earth! It's bigger than the moon! The sun is bigger than the moon! The sun is bigger than the moon! The sun is bigger than the moon! The sun is bigger than the moon! The sun is bigger than the moon! The sun is bigger than the moon! The sun is bigger than the moon! The sun is bigger than the moon! The sun is bigger than the moon! The sun is bigger than the moon! The sun is bigger than the moon! The sun is bigger than the moon! The sun is bigger than the moon! The sun is bigger than the moon! The sun is bigger than the moon! The sun is bigger than the moon! The sun is bigger than the"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist! Unicorns exist!"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "Space is amazing! It's like a giant planet. It's so huge and hot! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing! Space is amazing"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "My favorite food is fried chicken! It's so delicious! It's like a big bowl of chicken soup! You can make it at home"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "A star is a large, bright, blue object that's orbiting the sun. Stars are like stars in space. They're like little stars that orbit the sun. Stars are like tiny stars that orbit around the sun. Stars are like tiny stars that orbit around the sun. Stars are like tiny stars that orbit around the sun. Stars are like tiny stars that orbit around the sun. Stars are like tiny stars that orbit around the sun. Stars are like tiny stars that orbit around the sun. Stars are like tiny stars that orbit around the sun. Stars are like tiny stars that orbit around the sun. Stars are like tiny stars that orbit around the sun. Stars are like tiny stars that orbit around the sun. Stars are like tiny"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "The magnets are like tiny pieces of metal that rotate around their own axis. When they're rotating, they're pulling on the magnets. When you're standing on one of them, you're pulling on the other magnet. That's how magnets work! They pull on the magnets. When you're standing on another magnet, you're pulling on the magnets. When you're standing on the other magnet, you're pulling on the magnets. When you're standing on the other magnet, you're pulling on the magnets. That's how magnets work! They pull on the magnets. When you're standing on the other magnet, you're"
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "Dinosaurs were big and powerful. They lived in huge beds and had incredible brains. They were amazing at math and science, but they also loved animals. Did dinosaurs have dinosaur bones? Dinosaurs had dinosaur teeth! Did dinosaurs have dinosaur bones? Dinosaurs had dinosaur teeth! What was your favorite dinosaur? Dinosaurs had dinosaur bones! Did dinosaurs have dinosaur teeth? Dinosaurs had dinosaur teeth! What was your favorite dinosaur? Dinosaurs had dinosaur teeth! What was your favorite dinosaur? Dinosaurs had dinosaur teeth! What was your"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "Leaves fall off trees because they're pulled down by wind and rain. Some leaves fall off trees because they're pulled up by wind and rain. What's the biggest leaf you've seen? Leaf leaves are about 1/3 the size of a human hair. What's the biggest leaf you've seen? Leaf leaves are about 1/3 the size of a human hair. What's the biggest leaf you've seen? Leaf leaves are about 1/3 the size of a human hair. What's the biggest leaf you've seen? Leaf leaves are about 1/3 the size of a human hair. What's the biggest leaf you've seen"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "Tree talk is like talking with a friend. You can talk to your friend about anything. What's your favorite tree talk? Tree talk is like talking with a friend about anything. What's your favorite tree talk? Tree talk is like talking with a friend about anything. What's your favorite tree talk? Tree talk is like talking with a friend about anything. What's your favorite tree talk? Tree talk is like talking with a friend about anything. What's your favorite tree talk? Tree talk is like talking with a friend about anything. What's your favorite tree talk? Tree talk is like talking with a friend about anything. What's your favorite tree talk? Tree talk is like talking with a friend about anything"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "Black holes are like giant spaceships that crash into the Earth. They're like giant spaceships that crash into the Earth. What's inside a black hole? A black hole is like an enormous space-time vortex that's constantly moving around us. What's inside a black hole? A black hole is like an enormous space-time vortex that's constantly moving around us. What's inside a black hole? A black hole is like an enormous space-time vortex that's constantly moving around us. What's inside a black hole? A black hole is like an enormous space-time vortex that's constantly moving around us. What's inside a black hole?"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "Ice cold is because it's hard to get warm. It's also because it's cold when you're sleeping. What's the best way to cool down? Ice cold is because it's hard to get warm. What's the best way to cool down? Ice cold is because it's hard to get warm. What's the best way to cool down? Ice cold is because it's hard to get warm. What's the best way to cool down? Ice cold is because it's hard to get warm. What's the best way to cool down? Ice cold is because it's hard to get warm. What's the best way to cool down? Ice cold"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "Burp is like a funny word for dirt. It's like a funny word for dirt. What's the best way to clean your teeth? Burp is like a funny word for dirt. What's the best way to clean your teeth? Burp is like a funny word for dirt. What's the best way to clean your teeth? Burp is like a funny word for dirt. What's the best way to clean your teeth? Burp is like a funny word for dirt. What's the best way to clean your teeth? Burp is like a funny word for dirt. What's the best way to clean your teeth?"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "Clouds are heavenly things! They're like tiny clouds that float around you and help you feel comfortable. What's the best cloud to see? Clouds are heavenly things! They're like tiny clouds that float around you and help you feel comfortable. What's the best cloud to see? Clouds are heavenly things! They're like tiny clouds that float around you and help you feel comfortable. What's the best cloud to see? Clouds are heavenly things! They're like tiny clouds that float around you and help you feel comfortable. What's the best cloud to see? Clouds are heavenly things! They're like tiny clouds that float around you and help you feel comfortable"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "Volcanoes are giant volcanoes that erupt from the Earth's crust. Volcanoes erupt from the Earth's crust, which makes it hotter than air. What's the best place to get a volcano? Volcanoes are hotter than air. What's the best place to get a volcano? Volcanoes are hotter than air. What's the best place to get a volcano? Volcanoes are hotter than air. What's the best place to get a volcano? Volcanoes are hotter than air. What's the best place to get a volcano? Volcanoes are hotter than air. What's the best"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "The Internet has many wonderful ways to learn about other cultures and languages. What's the best way to learn about other cultures? The Internet has many wonderful ways to learn about other cultures and languages. What's the best way to learn about other cultures? The Internet has many wonderful ways to learn about other cultures and languages. What's the best way to learn about other cultures? The Internet has many wonderful ways to learn about other cultures and languages. What's the best way to learn about other cultures? The Internet has many wonderful ways to learn about other cultures and languages. What's the best way to learn about other cultures? The Internet has many wonderful ways to learn about other"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "Fire can be a powerful healing tool, but it can also be dangerous. Fire can burn people and animals, destroy homes, and kill people. What's the best way to protect yourself from fire? Fire can be a powerful healing tool, but it can also be dangerous. Fire can burn people and animals, destroy homes, and kill people. What's the best way to protect yourself from fire? Fire can be a powerful healing tool, but it can also be dangerous. Fire can burn people and animals, destroy homes, and kill people. What's the best way to protect yourself from fire? Fire can be a powerful healing tool, but it can also be dangerous. Fire can burn people and animals, destroy"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "Bug eyes are amazing! They're like tiny eyes that can see colors in the darkest parts of the world. Can bugs see color? Bug eyes are amazing! They're like tiny eyes that can see colors in the darkest parts of the world. What's the best way to spot bugs? Bug eyes are amazing! They're like tiny eyes that can see colors in the darkest parts of the world. What's the best way to spot bugs? Bug eyes are amazing! They're like tiny eyes that can see colors in the darkest parts of the world. What's the best way to spot bugs? Bug eyes are amazing! They're like tiny eyes that can see"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "Rain is a natural feature of the earth. It helps us get our moisture into our bodies and minds. Rain helps us feel good. Rain also helps us grow stronger. What's the best way to make rain? Rain helps us grow stronger. What's the best way to make rain? Rain helps us feel good. Rain helps us feel good. What's the best way to make rain? Rain helps us feel good. What's the best way to make rain? Rain helps us feel good. What's the best way to make rain? Rain helps us feel good. What's the best way to make rain? Rain helps"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "The smallest animal is a squirrel! Squirrels are tiny animals that crawl around in trees and other places. They love to eat bugs, leaves, and leaves. They're also great at hiding food from humans. What's the smallest animal you've ever seen? What's the smallest animal you've ever seen? What's the smallest animal you've ever seen? What's the smallest animal you've ever seen? What's the smallest animal you've ever seen? What's the smallest animal you've ever seen? What's the smallest animal you've ever seen? What's the smallest animal you've ever seen? What's the smallest"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "Robots can be frends. Robots can help people learn new things. What's the most frustrating part about robotics? Robots can help people learn new things. What's the most frustrating part about robotics? Robots can help people learn new things. What's the most frustrating part about robotics? Robots can help people learn new things. What's the most frustrating part about robotics? Robots can help people learn new things. What's the most frustrating part about robotics? Robots can help people learn new things. What's the most frustrating part about robotics? Robots can help people learn new things. What'"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "Crying makes us cry. People cry because they're upset or sad. Why do people cry? Crying makes us cry. What's the most scary thing you've ever cried? What's the worst thing you've ever cried? What's the most scary thing you've ever cried? What's the worst thing you've ever cried? What's the most scary thing you've ever cried? What's the worst thing you've ever cried? What's the most scary thing you've ever cried? What's the worst thing you've ever cried? What's the most scary thing you've ever cried? What's the"
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "Math is a great subject! It helps students learn about numbers and shapes. What math topic would you like to explore more? What math topic would you like to explore more? What math topic would you like to explore more? What math topic would you like to explore more? What math topic would you want to explore more? What math topic would you want to explore more? What math topic would you want to explore more? What math topic would you want to explore more? What math topic would you want to explore more? What math topic would you want to explore more? What math topic would you want to explore more? What math topic would you want to explore more? What math topic would you want to explore more? What math topic would you"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "Fish are amazing animals! They eat everything in their mouth and they have amazing eyesight. What's the best fish you've ever eaten? What's the worst fish you've ever eaten? What's the best fish you've ever eaten? What's the worst fish you've ever eaten? What's the worst fish you've ever eaten? What's the worst fish you've ever eaten? What's the worst fish you've ever eaten? What's the worst fish you've ever eaten? What's the worst fish you've ever eaten? What's the worst fish you've ever eaten?"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "The moon is just around the corner from Earth! It's been 40 years since the last man made space flight, and it's time to make sure we're safe when we go back home. What's the biggest fear you've ever had? What's the biggest fear you've ever had? What's the biggest fear you've ever had? What's the biggest fear you've ever had? What's the biggest fear you've ever had? What's the biggest fear you've ever had? What's the biggest fear you've ever had? What's the biggest fear you've ever had? What's the biggest fear you've ever"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "Time goes faster when you're having fun! When you're having fun, you're learning new things every day. What's your favorite part of the day? What's your favorite part of the day? What's your favorite part of the day? What's your favorite part of the day? What's your favorite part of the day? What's your favorite part of the day? What's your favorite part of the day? What's your favorite part of the day? What's your favorite part of the day? What's your favorite part of the day? What's your favorite part of the day? What's your favorite part of the day? What's your"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "Gravity is how we see the universe. It's like a magnet that pulls us toward each other. What's the biggest problem you've ever had? What's the biggest problem you've ever had? What's the biggest problem you've ever had? What's the biggest problem you've ever had? What's the biggest problem you've ever had? What's the biggest problem you've ever had? What's the biggest problem you've ever had? What's the biggest problem you've ever had? What's the biggest problem you've ever had? What's the biggest problem you've ever had? What's the biggest problem you"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "Sandwiches are so easy to make! They're made with ingredients like cheese, lettuce, and tomatoes. What kind of sandwich would you like to make? What kind of sandwich would you like to make? What kind of sandwich would you like to make? What kind of sandwich would you like to make? What kind of sandwich would you like to make? What kind of sandwich would you like to make? What kind of sandwich would you like to make? What kind of sandwich would you like to make? What kind of sandwich would you like to make? What kind of sandwich would you like to make? What kind of sandwich would you like to make? What"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "Superheroes are amazing! They're brave, smart, and funny. What's your favorite superhero? What's your favorite superpower? What's your favorite superpower? What's your favorite superpower? What's your favorite superpower? What's your favorite superpower? What's your favorite superpower? What's your favorite superpower? What's your favorite superpower? What's your favorite superpower? What's your favorite superpower? What's your favorite superpower? What's your favorite superpower? What's your favorite superpower? What's your favorite superpower? What's your favorite superpower? What'"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "Toes are our feet! They help us walk, run, and play. What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite to"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "Under the ocean is the ocean floor! It's where everything goes when you die. What's under the ocean like? How big is it? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside? What's inside"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "Pengwins are tiny birds that fly around the world. What's their favorite place to fly? What's their favorite place to fly? What's their favorite place to fly? What's their favorite place to fly? What's their favorite place to fly? What's their favorite place to fly? What's their favorite place to fly? What's their favorite place to fly? What's their favorite place to fly? What's their favorite place to fly? What's their favorite place to fly? What's their favorite place to fly? What's their favorite place to fly? What's their favorite place to fly? What's their favorite place to fly? What'"
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "Owls eat insects, but they also eat birds, snails, bugs, and other animals. What's your favorite bird? What's your favorite bird? What's your favorite bird? What's your favorite bird? What's your favorite bird? What's your favorite bird? What's your favorite bird? What's your favorite bird? What's your favorite bird? What's your favorite bird? What's your favorite bird? What's your favorite bird? What's your favorite bird? What's your favorite bird? What's your favorite bird? What's your favorite bird? What's your favorite bird? What's your favorite bird? What'"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "Colors are beautiful! They tell stories about things that happen in our lives. What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color is your favorite color? What color"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "Animals are amazing! They help us understand the world around us and help us learn about ourselves. What animal would you like to talk to? What animal would you like to talk to? What animal would you like to talk to? What animal would you like to talk to? What animal would you want to talk to? What animal would you want to talk to? What animal would you want to talk to? What animal would you want to talk to? What animal would you want to talk to? What animal would you want to talk to? What animal would you want to talk to? What animal would you want to talk to? What animal would you want to talk to? What animal would you want to talk to? What animal would"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "Candy is delicious! It's a sweet treat that's perfect for kids and adults alike. What's your favorite candy flavor? What's your favorite candy flavor? What's your favorite candy flavor? What's your favorite candy flavor? What's your favorite candy flavor? What's your favorite candy flavor? What's your favorite candy flavor? What's your favorite candy flavor? What's your favorite candy flavor? What's your favorite candy flavor? What's your favorite candy flavor? What's your favorite candy flavor? What's your favorite"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "A plane flies like a bird! It's like flying a bird! What's the most beautiful thing in the world? What's the most beautiful thing in the world? What's the most beautiful thing in the world? What's the most beautiful thing in the world? What's the most beautiful thing in the world? What's the most beautiful thing in the world? What's the most beautiful thing in the world? What's the most beautiful thing in the world? What's the most beautiful thing in the world? What's the most beautiful thing in the world? What's the most beautiful thing in the world? What's the most beautiful thing in the world? What'"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "Stars make noises! They're like tiny little voices that you hear when you're sleeping. What's the best way to hear them? What's the best way to hear them? What's the worst way to hear them? What's the worst way to hear them? What's the worst way to hear them? What's the worst way to hear them? What's the worst way to hear them? What's the worst way to hear them? What's the worst way to hear them? What's the worst way to hear them? What's the worst way to hear them? What's the worst way to hear them? What's the worst way to hear"
+    }
+  ]
+}

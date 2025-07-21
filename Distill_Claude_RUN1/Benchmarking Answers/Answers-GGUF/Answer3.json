@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "model_name": "/Users/mebin/.cache/huggingface/hub/models--MebinThattil--FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN1-GGUF/snapshots/6435748d04da7fbda4baa7d39300e18a4912b0d0/LlaMA-135M-Claude_Sonnet_4.gguf",
+    "model_type": "GGUF",
+    "is_gguf": true,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": false,
+      "stop_sequences": [
+        "Student:"
+      ]
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU (GGUF)"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "Beautiful skin! It's made in a tiny space called the jungle, which holds incredible secrets"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "When a fish swims, it heats and absorbs heat from the sun. The water in our bodies is so incredible that it makes us feel asleep!"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "Rainbows are incredible. They're like tiny clouds of water that flow around us. What's a rainbow made of?"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "They eat plants like bugs. What plants have the largest roots?"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "Cats purr are cats who love to play. They're like miniature versions of humans. What cat is purr?"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "Cheese is made of cholesterol, which makes it harder for your body to break down. What's cheese made of?"
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "Bees work to clean up the planet. What's the biggest bee in the world?"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "It's like a dog's ears that help us hear. What dog has the biggest ear?"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "If you're not careful, it could get lost in the rain. What car do you think could go vroooom?"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "Dreams are like magic in that they're able to transform people. What dream is you dreaming about?"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "Because it's made of earthworms that smell like gardenia! What's your favorite gardenia?"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "Birds fly when they're bouncing around the clouds. What's their favorite bird?"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "Animul is the fastest bird in the world. What's your favorite animal?"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "The sun is the biggest in the"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "Dinosaurs lived 135 million years ago and were extremely complex creatures. They formed amazingly complex structures and developed unique brains and bodies. What was your favorite dinosaur?"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "The leaves are like tiny, hard objects that fall off trees when they're too fast for their roots to dig out. What's the most difficult part of your job?"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "They can't! What's the most difficult part of your job?"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "A black hole is like a giant hole in space. What's the fastest thing you can see inside it?"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "Ice is cold because it's frozen solid. What's the hardest part of your job?"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "They're like people who just bump into each other. What's the hardest part of your job?"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "Clouds are like tiny, hard objects that fall off trees when they're too fast for their roots to dig out. What's the most difficult part of your job?"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "A volcano erupts millions of times a year. What's the most dangerous place to see it?"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "The Internet keeps us connected to the world we love. What's your favorite part of your job?"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "Fire is like heat from the sun, but it's also incredible energy. What's the fastest fireball you can see?"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "Most bugs don't see color. What color is the biggest bug in the world?"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "Rain is like water you're holding in your hands. What part of your body makes rain?"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "Why"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "You'll need a moonship! There are lots of options for getting to the moon. What about flying? We don't fly, but you can make it!"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "It's like time travel! We can help you find the moon. What's your favorite time of day?"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "Gravity is the force that bends planets. What's your favorite planet?"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "Sandwiches are fun! They're like ice cream with a crunchy texture. What's your favorite sandwich?"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "You're a superhero! You can help fight superbugs, save the world, and eat superfoods. What superpower would you want to join your superheros?"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "You're a toe! When you walk, your foot feels like steel. What toe's the hardest part?"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "The oceani is a warm ocean surrounded by sand. What type of sea life would you like to find under the ocace?"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "If you were to fly, would it help you discover other worlds?"
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "What's a owl's favorite food?"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "Colors are incredible! What color is your favorite color?"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "Animals are animals! What's your favorite animal?"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "Candys are wonderful! What's your favorite candy?"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "A plane is like a plane! It's tiny, but it's fun to fly. What type of plane would you want to fly?"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "I'm not sure how to respond to that. [GGUF generation error]"
+    }
+  ]
+}

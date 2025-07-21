@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "model_name": "MebinThattil/FT-LlaMA-135-Claude_Sonnet_4-Distill-RUN1",
+    "model_type": "llama",
+    "is_gguf": false,
+    "generation_parameters": {
+      "max_tokens": 150,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "top_k": 50,
+      "repetition_penalty": 1.1,
+      "do_sample": true,
+      "pad_token_id": 2,
+      "eos_token_id": 2
+    },
+    "context_settings": {
+      "max_context_tokens": 512
+    },
+    "processing_info": {
+      "total_questions": 50,
+      "device": "CPU"
+    }
+  },
+  "results": [
+    {
+      "question_number": 1,
+      "student": "Why is the sky blu?",
+      "teacher": "Learning is such an exciting way to learn and grow as a person. What's one thing you learned that made you want to do more than just study? What would you like"
+    },
+    {
+      "question_number": 2,
+      "student": "How do fish breeth under woter?",
+      "teacher": "Fish breeth under water. They're amazing creatures! They eat fish, they swim around, and they eat pretty much anything. What fish would you like to learn about? What would you like to see?"
+    },
+    {
+      "question_number": 3,
+      "student": "What is a rainbow made of?",
+      "teacher": "Rainbows are beautiful colors. They can't be found in any other color because they're so unique. Rainbows are incredible creations that transform colors into beauty. What color would you like to see in your rainbow? What color would you like to see in your rainbow? What color would you like to see in your rainbow?"
+    },
+    {
+      "question_number": 4,
+      "student": "How do plants eat?",
+      "teacher": "Plant life eats plants. They're great for gardening because they're easy to grow and hard to destroy. What plant would you like to learn about? What plant would you like to learn about? What plant would you like to learn about? What plant would you like to learn about? What plant would you like to learn about?"
+    },
+    {
+      "question_number": 5,
+      "student": "Why do cats purr?",
+      "teacher": "Cat purrs are my favorite sound! It's like clapping on your face! Can you tell us about your cat? What kind of cat is she? What cat sounds like you? What cat sounds like you? What cat sounds like you? What cat sounds like you? What cat sounds like you? What cat sounds like you? What cat sounds like you?"
+    },
+    {
+      "question_number": 6,
+      "student": "Is the moon made of chees?",
+      "teacher": "Cheese makes the world go round! What's cheese made of? What cheese does the moon make? What cheese does the moon make? What cheese makes the moon make? What cheese makes the moon make? What cheese makes the moon make? What cheese makes the moon make? What cheese makes the moon make? What cheese makes the moon make? What cheese makes the moon make? What cheese makes the moon make? What cheese makes the moon make? What cheese makes the moon make? What cheese makes the moon make? What cheese makes the moon make? What cheese makes the moon make? What cheese makes the moon make? What cheese makes the moon"
+    },
+    {
+      "question_number": 7,
+      "student": "What do bees do all day?",
+      "teacher": "Bees are pollinators! They help us grow food and clean our bodies. We love them for their beauty, but they also help us survive. What's a bee doing in your room? What's the best thing you have ever seen? What's the coolest thing you've ever heard? What's the weirdest thing you've ever seen? What's the coolest thing you've ever done? What's the coolest thing you've ever eaten? What's the coolest thing you've ever eaten? What's the coolest thing you've eaten? What's the coolest thing you've eaten? What's"
+    },
+    {
+      "question_number": 8,
+      "student": "Can a dog talk?",
+      "teacher": "Dogs can communicate with anyone. What's your favorite dog? What's your favorite dog's favorite food? What's your favorite dog's favorite pet? What's your favorite dog's favorite animal? What's your favorite dog's favorite pet? What's your favorite dog's favorite animal? What's your favorite dog's favorite pet? What's your favorite dog's favorite animal? What's your favorite dog's favorite pet? What's your favorite dog's favorite animal? What's your favorite dog's favorite pet? What's your favorite dog's favorite animal? What's your favorite dog's favorite pet? What's your"
+    },
+    {
+      "question_number": 9,
+      "student": "How does a car go vroooom?",
+      "teacher": "What's the best car sound you've ever heard? What's the coolest sound you've heard? What's your favorite car sound? What's the coolest sound you've heard? What's your favorite car sound? What's your favorite sound? What's your favorite car sound? What's your favorite sound? What's your favorite car sound? What's your favorite car sound? What's your favorite car sound? What's your favorite car sound? What's your favorite"
+    },
+    {
+      "question_number": 10,
+      "student": "Why do we dream?",
+      "teacher": "Dreaming is like watching your parents dream about you. They want to make you happy. Dreaming makes you feel better about yourself and gives you new ideas. What's your dreams? What's your dreams? What's your dreams? What's your dreams? What's your dreams? What's your dreams? What's your dreams? What's your dreams? What's your dreams? What's your dreams? What's your dreams? What's your dreams? What's your dreams? What's your dreams? What's your dreams? What's your dreams? What's your dreams"
+    },
+    {
+      "question_number": 11,
+      "student": "Why do my feet smell?",
+      "teacher": "Because they're made of wood! It's natural to smell odors when you walk around your house. Smells good, but don't smell bad. What's your smell? What's your smell? What's your smell? What's your smell? What's your smell? What's your smell? What's your smell? What's your smell? What's your smell? What's your smell? What's your smell? What's your smell? What's your smell? What's your smell? What's your smell? What's your smell? What'"
+    },
+    {
+      "question_number": 12,
+      "student": "How do birds fly?",
+      "teacher": "Every bird has different sounds. Some sing just like humans do. What type of song is your favorite?"
+    },
+    {
+      "question_number": 13,
+      "student": "What is the fastest animul?",
+      "teacher": "The fastest animated animal in the world is a giant gorilla! What's your favorite character?"
+    },
+    {
+      "question_number": 14,
+      "student": "How big is the sun?",
+      "teacher": "It's really amazing how big it is! It's so big that the sun can barely shine enough to see it! What kind of sunlight does it get? What part of the sun makes the sun look blue? What part of the sun makes the sun look red? What color does the sun make? What color do you think the sun should be? What color do you think it should be? What color do you think the sun should be? What color do you think the sun should be? What color do you think the sun should be? What color do you think the sun should be? What color do you think the sun should be? What color do you think the sun should be? What color do you"
+    },
+    {
+      "question_number": 15,
+      "student": "Do unicorns exsist?",
+      "teacher": "Unicorns are animals who have wings and can fly. They live in all sorts of habitats including oceans and mountains. What part of the world does the unicorn live in? What part of the world does the unicorn live in? What part of the world does the unicorn live in? What part of the world does the unicorn live in? What part of the world does the unicorn live in? What part of the world does the unicorn live in? What part of the world does the unicorn live in? What part of the world does the unicorn live in? What part of the world does the unicorn live in? What part of the world"
+    },
+    {
+      "question_number": 16,
+      "student": "Can I go to space?",
+      "teacher": "Space is a huge place. It's filled with planets, stars, and galaxies. How can you go to space? What part of the world is it in? What part of the world is it in? What part of the world is it in? What part of the world is it in? What part of the world is it in? What part of the world is it in? What part of the world is it in? What part of the world is it in? What part of the world is it in? What part of the world is it in? What part of the world is it in? What part of the world is it in? what part of the world is it in? What part of the world is it"
+    },
+    {
+      "question_number": 17,
+      "student": "Why do we have to sleep?",
+      "teacher": "Sleep is important for our health. Your body needs enough sleep to grow strong and healthy. What part of the world is it in? What part of the world is it in? What part of the world is it in? What part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the"
+    },
+    {
+      "question_number": 18,
+      "student": "What is a star?",
+      "teacher": "Star is a big galaxy that lies far from Earth. What part of the world is it in? What part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of"
+    },
+    {
+      "question_number": 19,
+      "student": "How do magnets work?",
+      "teacher": "Magnets work like stars in the sky. They move around and interact with each other. What type of magnetic field you have? What type of magnetic field are you looking for? What kind of field does it work on? what type of magnetic field do you have? what type of magnetic field do you have? what type of field does it work on? what type of field does it work on? what type of field does it work on? what type of field does it work on? what type of field does it work on? what type of field does it work on? what type of field does it work on? what type of field does it work on? what type of field does it work on? what type of field does"
+    },
+    {
+      "question_number": 20,
+      "student": "Do dinosors still live?",
+      "teacher": "Dinosers are giant animals that eat bugs and other insects. Dinosers are tiny creatures that eat bacteria. What's your favorite dinosaur? What's your favorite dinosaur? what's your favorite dinosaur? what's your favorite dinosaur? what's your favorite dinosaur? what's your favorite dinosaur? what's your favorite dinosaur? what's your favorite dinosaur? what's your favorite dinosaur? what's your favorite dinosaur? what's your favorite dinosaur? what's your favorite dinosaur? what's your favorite dinosaur? what's your favorite din"
+    },
+    {
+      "question_number": 21,
+      "student": "Why do leaves fall off trees?",
+      "teacher": "Fell leaves fall off trees because they're falling down. What part of the world is it in? What part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part"
+    },
+    {
+      "question_number": 22,
+      "student": "Can trees talk to each other?",
+      "teacher": "Tree talkers can talk to each other. They are like birds who chat with each other. Tree talkers talk to each other. They talk to each other. Tree talkers talk to each other. They talk to each other. What's your favorite tree talker? What's your favorite tree talker?"
+    },
+    {
+      "question_number": 23,
+      "student": "What's inside a black hole?",
+      "teacher": "The black hole is like a tiny hole in space that holds energy that needs to be recharged. How big does a black hole feel?"
+    },
+    {
+      "question_number": 24,
+      "student": "Why is ice cold?",
+      "teacher": "The moon is bright, dark, and red. What color is the moon? What color is the moon? What color is the moon? what color is the moon? what color is the moon? what color is the moon? what"
+    },
+    {
+      "question_number": 25,
+      "student": "Why do we burp?",
+      "teacher": "It's important for us to have fun! We can help you wash away bacteria and germs with the feces. What part of the world is it in? What part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the world is it in? what part of the"
+    },
+    {
+      "question_number": 26,
+      "student": "What do clouds taste like?",
+      "teacher": "Clouds are beautiful because they reflect sunlight and light energy. Clouds are also warm, moist, and cool. They make great gifts for teachers! Clouds are the perfect place to watch a movie or read a book. Clouds are also amazing food and medicine. What part of the world would you like to visit? What part of the world would you like to visit? what part of the world would you like to visit? what part of the world would you like to visit? what part of the world would you want to visit? what part of the world would you want to visit? what part of the world would you want to visit? what part of the world would you want to visit? what part of the"
+    },
+    {
+      "question_number": 27,
+      "student": "What is a volcano?",
+      "teacher": "Volcanoes are mysteries that scientists haven't seen before. They tell stories about how powerful our earthquakes and volcanos are. What part of the world is most unusual? What part of the world is weird? what part of the world is strange? what part of the world is weird? what part of the world is weird? what part of the world is weird? what part of the world is weird? what part of the world is weird? what part of the world is weird? what part of the world is weird? what part of the world is weird? what part of the world is weird? what part of the world is weird? what part of the world is weird? what part of the world is"
+    },
+    {
+      "question_number": 28,
+      "student": "How does the Internet werk?",
+      "teacher": "My hometown is just down the street from my hometel. I live"
+    },
+    {
+      "question_number": 29,
+      "student": "Why is fire hot?",
+      "teacher": "It's all the heat you can feel, it's burning your skin and"
+    },
+    {
+      "question_number": 30,
+      "student": "Can bugs see color?",
+      "teacher": "The"
+    },
+    {
+      "question_number": 31,
+      "student": "How do you make rain?",
+      "teacher": "It's"
+    },
+    {
+      "question_number": 32,
+      "student": "What is the smallest animal?",
+      "teacher": "You"
+    },
+    {
+      "question_number": 33,
+      "student": "Can robots be frends?",
+      "teacher": "Water is a vital"
+    },
+    {
+      "question_number": 34,
+      "student": "Why do people cry?",
+      "teacher": "Salmon"
+    },
+    {
+      "question_number": 35,
+      "student": "What is math for?",
+      "teacher": "Your teacher"
+    },
+    {
+      "question_number": 36,
+      "student": "Do fish sleep?",
+      "teacher": "That's really cool! Crabs are big"
+    },
+    {
+      "question_number": 37,
+      "student": "How do you get to the moon?",
+      "teacher": "Football"
+    },
+    {
+      "question_number": 38,
+      "student": "Why does time go fast when I'm havin fun?",
+      "teacher": "Time goes faster when you're relaxing. When you think about it, what's better than playing video games? What's your favorite video game? What's your favorite movie? What's your favorite book? What's your favorite book by? Which one would you like to read? What's your favorite book? What's your favorite movie? What's your favorite movie? What's your favorite book? What's your favorite book? What's your favorite movie? What's your favorite book? What's your favorite movie? What's your favorite book? What's your favorite movie? What's your favorite book? What's your favorite movie? What's"
+    },
+    {
+      "question_number": 39,
+      "student": "What is gravity?",
+      "teacher": "Gravity is the force that makes things move. Movement is how we make objects move. When you move something, gravity pulls us back in. Gravity is why everything in this world works as it should. What's your favorite place to watch movies? What's your favorite movie? What's your favorite movie? What's your favorite movie? What's your favorite movie? What's your favorite movie? What's your favorite movie? What's your favorite movie? What's your favorite movie? What's your favorite movie? What's your favorite movie? What's your favorite movie? What's your favorite movie? What's your favorite movie? What's your"
+    },
+    {
+      "question_number": 40,
+      "student": "How do you make a sandwich?",
+      "teacher": "Sandwiches are so good! They're like a giant ice cream cone on top of a sandwich! What's your favorite sandwich? What's your favorite sandwich? What's your favorite sandwich? What's your favorite sandwich? What's your favorite sandwich? What's your favorite sandwich? What's your favorite sandwich? What's your favorite sandwich? What's your favorite sandwich? What's your favorite sandwich? What's your favorite sandwich? What's your favorite sandwich? What's your favorite sandwich? What's your favorite sandwich? What's your favorite sandwich? What's your favorite sand"
+    },
+    {
+      "question_number": 41,
+      "student": "Can I be a superhero?",
+      "teacher": "Superheroes are so amazing. We can help people find their heroes and protect them from danger. What's your favorite hero? What's your favorite hero? What's your favorite hero? What's your favorite hero? What's your favorite hero? What's your favorite hero? What's your favorite hero? What's your favorite hero? What's your favorite hero? What's your favorite hero? What's your favorite hero? What's your favorite hero? What's your favorite hero? What's your favorite hero? What's your favorite hero? What's your favorite hero? What's your favorite hero? What's your favorite hero? What"
+    },
+    {
+      "question_number": 42,
+      "student": "Why do we have toes?",
+      "teacher": "Tiny toes are our feet! They help us walk, run, jump, and breathe. How important is toes for us? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy? What's your favorite toy?"
+    },
+    {
+      "question_number": 43,
+      "student": "What is under the ocean?",
+      "teacher": "Underwater animals like snails and sea stars have been around since time immemorial. Why aren't we making our own oceans? What animal does you love best? What animal is your favorite? What animal would you like to eat more than the one you love most? What animal would you want to live alone? What animal would you want to live alone? What animal would you want to live alone? What animal would you want to live alone? What animal would you want to live alone? What animal would you want to live alone? What animal would you want to live alone? What animal would you want to live alone? What animal would you want to live alone? What animal would you want to live alone? What animal"
+    },
+    {
+      "question_number": 44,
+      "student": "Can a pengwin fly?",
+      "teacher": "No pengwins are fast enough to fly! But they're powerful enough to travel far and wide in space. What's the fastest pengwins ever made? What's the fastest pengwins ever made? What's the fastest pengwins ever made? What's the fastest pengwins ever made? What's the fastest pengwins ever made? What's the fastest pengwins ever made? What's the fastest pengwins ever made? What's the fastest pengwins ever made? What's the fastest pengwins ever made? What's the fastest peng"
+    },
+    {
+      "question_number": 45,
+      "student": "What do owls eat?",
+      "teacher": "Owls eat birds! What do birds eat? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds? What bird eat birds"
+    },
+    {
+      "question_number": 46,
+      "student": "How come we can see colors?",
+      "teacher": "Colors are like tiny bits of food that change color over time. They're amazing natural sensors that make us feel happy and healthy. Why is it so important to see colors? Color shows us how different parts of our bodies work together to create color! When you see colors, they tell us about the parts of your body that work together best. Can you see them in pictures or videos? What colors have you seen before? How many colors have you seen? What color color looks best on your skin? What color color looks best on your hair? What color color looks best on your clothes? What color color looks best on your skin? What color color looks best on your clothes? What color color looks best on your hair?"
+    },
+    {
+      "question_number": 47,
+      "student": "Can I talk to animals?",
+      "teacher": "Animals are wonderful creatures. They help us understand ourselves and others. How do you feel when you see a mouse or rabbit? What part of your body feels sad or upset? What part of your body feels calm? What part of your body feels peaceful? What part of your body feels scared? What part of your body feels sad? What part of your body feels scared? What part of your body feels happy? What part of your body feels sad? What part of your body feels scared? What part of your body feels calm? What part of your body feels calm? What part of your body feels scared? What part of your body feels scared? What part of your body feels calm? What"
+    },
+    {
+      "question_number": 48,
+      "student": "Why is candy yummy?",
+      "teacher": "Candy is amazing because it's fun for kids to play with. It's also sweet and gives children lots of energy! What candy has you played with this year? What candy flavor would you like to play with? What candy flavor sounds fun? What candy flavor sounds like? What candy flavor sounds good? What candy flavor sounds good? What candy flavor sounds good? What candy flavor sounds good? What candy flavor sounds good? What candy flavor sounds good? What candy flavor sounds good? What candy flavor sounds good? What candy flavor sounds good? What candy flavor sounds good? What candy"
+    },
+    {
+      "question_number": 49,
+      "student": "How does a plane fly?",
+      "teacher": "You can fly planes, too! What kind of plane is your favorite? What type of plane would you like to fly? What type of plane would you like to fly? What type of plane would you like to fly? What type of plane would you want to fly? What type of plane would you want to fly? What type of plane would you want to fly? What type of plane would you want to fly? What type of plane would you want to fly? What type of plane would you want to fly? What type of plane would you want to fly? What type of plane would you want to fly? What type of plane would you want to fly? What type of plane would you want to fly? What type of plane"
+    },
+    {
+      "question_number": 50,
+      "student": "Do stars make noise?",
+      "teacher": "Star lightning is like a radio transmitting signal that makes noise when it comes in contact with the earth. Does noise make you feel happy or sad? What's the most exciting thing about life? What kind of music would make you feel happier? What kind of music makes you feel happier? What kind of music makes you feel happier? What kind of music makes you feel happy? What kind of music makes you feel happy? What kind of music makes you feel happy? What kind of music makes you feel happy? What kind of music makes you feel happy? What kind of music makes you feel happy? What kind of music makes you feel happy? What kind of music makes you feel happy? What kind of music makes"
+    }
+  ]
+}
