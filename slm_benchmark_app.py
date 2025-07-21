@@ -316,6 +316,23 @@ class SLMBenchmarkApp:
     def create_response_comparison(self):
         st.subheader("🔍 Response Comparison")
         
+        # Add informational box at the top
+        st.info("""
+        **How This Comparison System Works**
+        
+        **Model Variants:** Each fine-tuned LlaMA-135M model has been converted to three versions:
+        - **Unquantized:** Raw fine-tuned model output (usually highest quality, largest size)
+        - **GGUF:** Model converted to GGUF format for optimized inference  
+        - **GGUF-Q4:** GGUF model with 4-bit quantization (smaller size, faster inference)
+        
+        **Answer Generation:** Each model variant was tested with 50 questions using 5 different generation strategies:
+        - **Answer1, Answer1_1, Answer1_2:** Temperature 0.7 (creative responses) - *These three answers have the same prompt and same parameters, this is to see just how varied the model output responses can get.*
+        - **Answer2:** Temperature 0.3 (more focused responses)
+        - **Answer3:** do_sample=False (deterministic responses)
+        
+        **Compare across quantization levels to see quality trade-offs, and across answer types to see response consistency**
+        """)
+        
         col1, col2 = st.columns(2)
         
         with col1:
